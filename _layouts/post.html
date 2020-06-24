@@ -48,10 +48,6 @@ layout: default
   <div class="wrapper">
     <div class="post-content e-content" itemprop="articleBody">
       {{ content }}
-
-      {% if page.comments != false and jekyll.environment == "production" %}
-        {% include disqus.html %}
-      {% endif %}
     </div>
   </div>
   
