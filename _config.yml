@@ -18,20 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Writing Buddies, Writing Together
+title: Writing Buddies
+author: Aspiring-Writer & Friends
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Plan Together. Write Together. Edit Together. Grow Together.
+description: Plan Together. Write Together. Edit Together. Grow Together.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aspiring-writer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Aspiring-Writer
-author: Aspiring-Writer & Friends
 
 # Build settings
-remote-theme: ngzhio/jekyll-theme-hamilton
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -41,14 +39,16 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - scripts/
+  - README.md
