@@ -15,7 +15,7 @@ layout: default
           {{ page.date | date: date_format }}
         </time>
         {%- if page.modified_date -%}
-          ~ 
+          ~
           {%- assign mdate = page.modified_date | date_to_xmlschema -%}
           <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
             {{ mdate | date: date_format }}
@@ -49,6 +49,17 @@ layout: default
     <div class="post-content e-content" itemprop="articleBody">
       {{ content }}
     </div>
+    
+    <div id="hyvor-talk-view"></div>
+    <script type="text/javascript">
+        var HYVOR_TALK_WEBSITE = 1000; // DO NOT CHANGE THIS
+        var HYVOR_TALK_CONFIG = {
+            url: '{{ page.url | absolute_url }}',
+            id: '{{page.id}}'
+        };
+    </script>
+    <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+  
   </div>
   
 </article>

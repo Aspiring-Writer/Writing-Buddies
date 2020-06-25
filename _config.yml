@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -25,11 +25,14 @@ description: Plan Together. Write Together. Edit Together. Grow Together.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aspiring-writer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+remote-theme: ngzhio/jekyll-theme-hamilton
+
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 include: [_pages]
 
