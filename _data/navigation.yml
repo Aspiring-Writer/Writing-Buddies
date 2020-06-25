@@ -10,15 +10,13 @@
   url: /nonfiction/
 - title: Poetry
   url: /poetry/
-- title: Join Us
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
 - title: More
   sublinks:
     - title: Categories
       url: /categories/
     - title: Tags
       url: /tags/
+    - title: FAQ
+      url: /faq/
+    - title: Docs
+      url: /docs/

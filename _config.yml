@@ -5,14 +5,14 @@ description: Plan Together. Write Together. Edit Together. Grow Together.
 baseurl: ""
 url: "https://aspiring-writer.github.io"
 
-remote-theme: ngzhio/jekyll-theme-hamilton
+paginate: 10
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme
+  - jekyll-paginate
 
 include: [_pages]
 
