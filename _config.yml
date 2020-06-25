@@ -6,6 +6,7 @@ baseurl: ""
 url: "https://aspiring-writer.github.io"
 
 paginate: 10
+paginate_path: /page:num/
 
 # Build settings
 plugins:
