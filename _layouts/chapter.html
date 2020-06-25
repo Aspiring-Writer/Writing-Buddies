@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<style>
+    p {
+        text-indent: 2em;
+    }
+</style>
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -49,8 +54,12 @@ layout: default
 
   <div class="wrapper">
     <div class="post-content e-content" itemprop="articleBody">
+      
       {{ content }}
+      
     </div>
+    
+    {% include book-pager.html %}
     
     <div id="hyvor-talk-view"></div>
     <script type="text/javascript">

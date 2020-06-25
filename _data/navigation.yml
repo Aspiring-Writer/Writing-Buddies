@@ -2,13 +2,23 @@
   url: /about/
 - title: Authors
   url: /authors/
+- title: Books
+  url: /books/
 - title: Fiction
   url: /fiction/
 - title: Nonfiction
   url: /nonfiction/
 - title: Poetry
   url: /poetry/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
+- title: Join Us
+  sublinks:
+    - title: FAQ
+      url: /faq/
+    - title: Docs
+      url: /docs/
+- title: More
+  sublinks:
+    - title: Categories
+      url: /categories/
+    - title: Tags
+      url: /tags/

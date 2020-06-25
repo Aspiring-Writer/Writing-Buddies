@@ -1,0 +1,18 @@
+<aside class="book">
+  <h4>This post is part of the book <em>{{ site.data.book | where: 'id', page.book | map: 'title' }}</em></h4>
+  <ol>
+    {% assign book-posts = site.posts | reverse | where: 'book', page.book %}
+    {% for post in book-posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>{{ post.title }}</strong>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if book-posts.size == 1 %}
+  <p>More chapters coming soon!</p>
+  {% endif %}
+</aside>
