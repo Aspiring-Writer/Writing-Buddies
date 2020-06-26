@@ -6,18 +6,14 @@
   url: /books/
 - title: Series
   url: /series/
-- title: Fiction
-  url: /fiction/
-- title: Nonfiction
-  url: /nonfiction/
+- title: Categories
+  url: /categories/
+- title: Tags
+  url: /tags/
+- title: Years
+  url: /years/
 - title: More
   sublinks:
-    - title: Categories
-      url: /categories/
-    - title: Tags
-      url: /tags/
-    - title: Years
-      url: /years/
     - title: FAQ
       url: /faq/
     - title: Join Us

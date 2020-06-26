@@ -5,15 +5,11 @@ description: Plan Together. Write Together. Edit Together. Grow Together.
 baseurl: ""
 url: "https://aspiring-writer.github.io"
 
-permalink: /:categories/:title
-
 paginate: 10
 paginate_path: /page:num/
 
 collections:
   authors:
-    output: true
-  poetry:
     output: true
 
 collections_dir: collections
@@ -24,11 +20,6 @@ defaults:
       type: "authors"
     values:
       layout: "author"
-  - scope:
-    path: "collections"
-    type: "poetry"
-  - values:
-      layout: "poetry"
   - scope:
       path: ""
       type: "posts"
