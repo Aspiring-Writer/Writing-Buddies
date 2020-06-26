@@ -1,16 +1,7 @@
 ---
 layout: post
 title: Why Did God Take My Daddy From Me?
-series: poems
-permalink: '/poems/:title'
-published: true
 ---
-<style>
-    p {
-        margin: 10px;
-    }
-</style>
-
 "Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"
 
 She could still see her Daddy's face smiling at her. She could still feel him holding her hand.

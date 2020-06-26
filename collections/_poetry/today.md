@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Today
-series: poems
-permalink: '/poems/:title'
-published: true
 ---
 
 Sometimes I wonder what's different 'bout today

@@ -1,12 +1,10 @@
 ---
-layout: chapter
-series: cloudtopia
-title: Cloudtopia
-tags: [Children's Fiction, Short Story, Adventure, Fantasy]
-permalink: /cloudtopia/
+layout: post
+book: cloudtopia
+title: Introduction to Cloudtopia
+categories: [Fiction, Short Story]
+tags: [Children's Fiction, Adventure, Fantasy]
 ---
-
-# Preface
 
 This is a short story I had started writing years ago. It was actually the first story I started writing. Somehow, I forgot about it for a while and it just stayed in a notebook in a box up in my attic. When I started becoming more committed to writing, my little brother asked me what happened to *Cloudtopia* so I dug the notebook out of a box and looked over what I had written. IT WAS HORRIBLE! So, so bad lol. Have you ever looked back at writing you had done when you were just starting to write your alphabet? It was like that. The way I wrote it, what I wrote, everything was so bad (///▽///). I don't even know why he liked it so much, but that's little brothers for you.
 

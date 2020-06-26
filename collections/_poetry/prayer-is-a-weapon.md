@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Prayer is a weapon...
-series: poems
-permalink: '/poems/:title'
-published: true
 ---
 
 Prayer is a weapon.

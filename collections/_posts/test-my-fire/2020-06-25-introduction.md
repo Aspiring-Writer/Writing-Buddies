@@ -1,13 +1,14 @@
 ---
-layout: chapter
+layout: post
 title: Introduction to Test My Fire
-books: test-my-fire
+book: test-my-fire
+categories:
+  - Fiction
+  - Novel
 tags:
   - Mystery & Suspense
   - Thriller
 ---
-
-## Preface
 
 This was a draft that I found in one of my notebooks. I started editing it the same day I started writing "Kidnapped and Afraid."
 

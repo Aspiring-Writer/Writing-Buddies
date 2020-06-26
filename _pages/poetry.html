@@ -1,0 +1,13 @@
+---
+layout: page
+title: Poetry
+permalink: /poetry/
+---
+<ul>
+  {% for poetry in site.poetry %}
+    <li>
+      <h2>{{ poetry.name }}</h2>
+      <p>{{ poetry.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,9 +1,10 @@
 ---
-layout: chapter
+layout: post
 book: kidnapped-and-afraid
 title: Introduction to Kidnapped and Afraid
-category: Fiction
-subcategory: Novel
+categories:
+  - Fiction
+  - Novel
 tags:
   - Mystery & Suspense
   - Fantasy

@@ -13,7 +13,8 @@ paginate_path: /page:num/
 collections:
   authors:
     output: true
-    permalink: /authors/
+  poetry:
+    output: true
 
 collections_dir: collections
 
@@ -23,6 +24,11 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+    path: "collections"
+    type: "poetry"
+  - values:
+      layout: "poetry"
   - scope:
       path: ""
       type: "posts"
