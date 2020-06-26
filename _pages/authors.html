@@ -3,12 +3,24 @@ layout: page
 title: Authors
 permalink: /authors/
 ---
+<p>
+  This site would not be complete without the wonderful people who write, edit, and share their content. Click the links to learn more about each one.
+</p>
 <ul>
   {% for author in site.authors %}
     <li>
-      <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
-      <h3>{{ author.position }}</h3>
-      <p>{{ author.content | markdownify }}</p>
+      <h2>Site Mantainers</h2>
+      {% if author.position=="Site Maintainer" %}
+      <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
+      {% endif %}
+      <h2>Editors</h2>
+      {% if author.position=="Editor" %}
+      <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
+      {% endif %}
+      <h2>Writers</h2>
+      {% if author.position=="Writer" %}
+      <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
