@@ -1,6 +1,6 @@
 ---
 layout: post
-book: Pur Ti Miro
+book: pur-ti-miro
 author: cherrythecheery
 categories: [Fiction, Novel]
 tags: [Romance, Musicians, Violins, Operas, Classical Music, Inspired by Music]
