@@ -2,12 +2,9 @@
 layout: post
 title: Introduction to Test My Fire
 book: test-my-fire
-categories:
-  - Fiction
-  - Novel
-tags:
-  - Mystery & Suspense
-  - Thriller
+author: bravisha
+categories: [Fiction, Novel]
+tags: [Mystery & Suspense, Thriller]
 ---
 
 This was a draft that I found in one of my notebooks. I started editing it the same day I started writing "Kidnapped and Afraid."

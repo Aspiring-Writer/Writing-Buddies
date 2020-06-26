@@ -1,13 +1,30 @@
 ---
 layout: default
 ---
-
+<style>
+    a.back {
+      float: left;
+    }
+    a.forward {
+      float: right;
+    }
+</style>
+    
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
 
     <div class="wrapper">
-
+      
+      {% if page.book %}
+      <h2><em>{{ site.data.book | where: 'id', page.book | map: 'title' }}</em></h2>
+      {% assign book-posts = site.posts | reverse | where: 'book', page.book %}
+      {% endif %}
+      {% if page.series %}
+      <h4><em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em> Series</h4>
+      {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+      {% endif %}
+      
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
         {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
@@ -47,8 +64,32 @@ layout: default
       {{ content }}
     </div>
     
-    <h4><em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em> Series</h4>
-    {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+    {% if page.book %}
+    <hr>
+    {% for post in book-posts %}
+      {% if post.url == page.url %}
+        {% assign prev_post_index = forloop.index | minus: 1 %}
+        {% assign curr_post_index = forloop.index %}
+        {% assign next_post_index = forloop.index | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    
+    <h4 style="text-align:center">Chapter <strong>{{ curr_post_index }}</strong> of <strong>{{ book-posts.size }}</strong>.
+      {% if book-posts.size == 1 %}More chapters coming soon!{% endif %}</h4>
+    
+    {% for post in book-posts %}
+      {% if prev_post_index == forloop.index %}
+        <a class="back" rel="prev" href="{{ site.baseurl }}{{ post.url }}">&lArr; Prev Chapter</a>
+      {% endif %}
+    
+      {% if next_post_index == forloop.index %}
+        <a class="forward" rel="next" href="{{ site.baseurl }}{{ post.url }}">Next Chapter &rArr;</a>
+      {% endif %}
+    {% endfor %}
+    {% endif %}
+    
+    {% if page.series %}
+    <hr>
     {% for post in series-posts %}
       {% if post.url == page.url %}
         {% assign prev_post_index = forloop.index | minus: 1 %}
@@ -57,25 +98,27 @@ layout: default
       {% endif %}
     {% endfor %}
     
-    <p>Post <strong>{{ curr_post_index }}</strong> of <strong>{{ series-posts.size }}</strong>.
-      {% if series-posts.size == 1 %}More posts coming soon!{% endif %}</p>
+    <h4 style="text-align:center">Post <strong>{{ curr_post_index }}</strong> of <strong>{{ series-posts.size }}</strong>.
+      {% if series-posts.size == 1 %}More posts coming soon!{% endif %}</h4>
     
     {% for post in series-posts %}
       {% if prev_post_index == forloop.index %}
-        <a class="btn" rel="prev" href="{{ site.baseurl }}{{ post.url }}">&larr; Prev Post</a>
+        <a class="back" rel="prev" href="{{ site.baseurl }}{{ post.url }}">&lArr; Prev Post</a>
       {% endif %}
     
       {% if next_post_index == forloop.index %}
-        <a class="btn" rel="next" href="{{ site.baseurl }}{{ post.url }}">Next Post &rarr;</a>
+        <a class="forward" rel="next" href="{{ site.baseurl }}{{ post.url }}">Next Post &rArr;</a>
       {% endif %}
     {% endfor %}
-    
+    {% endif %}
+    <br><br>
     <div id="hyvor-talk-view"></div>
     <script type="text/javascript">
         var HYVOR_TALK_WEBSITE = 1000; // DO NOT CHANGE THIS
         var HYVOR_TALK_CONFIG = {
             url: '{{ page.url | absolute_url }}',
             id: '{{page.id}}'
+            loadMode: "scroll"
         };
     </script>
     <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
