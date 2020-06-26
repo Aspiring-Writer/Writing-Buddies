@@ -2,6 +2,7 @@
 layout: author
 short_name: 8-Bally
 name: 8-Bally
+position: Writer
 ---
 
 High School Sophomore studying to become a future psychologist or Playwright.

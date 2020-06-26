@@ -6,21 +6,60 @@ permalink: /authors/
 <p>
   This site would not be complete without the wonderful people who write, edit, and share their content. Click the links to learn more about each one.
 </p>
-<ul>
-  {% for author in site.authors %}
+
+<h2>Site Mantainers</h2>
+
+  <ul>
+    
+    {% for author in site.authors %}
+    {% if author.position=="Site Maintainer" %}
+    
     <li>
-      <h2>Site Mantainers</h2>
-      {% if author.position=="Site Maintainer" %}
+      
       <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
-      {% endif %}
-      <h2>Editors</h2>
-      {% if author.position=="Editor" %}
-      <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
-      {% endif %}
-      <h2>Writers</h2>
-      {% if author.position=="Writer" %}
-      <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
-      {% endif %}
+      <blockquote>{{ author.short_bio }}</blockquote>
+    
     </li>
-  {% endfor %}
-</ul>
+    
+    {% endif %}
+    {% endfor %}
+  
+  </ul>
+
+<h2>Editors</h2>
+  
+  <u>
+    
+    {% for author in site.authors %}
+    {% if author.position=="Editor" %}
+    
+    <li>
+      
+      <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
+      <blockquote>{{ author.short_bio }}</blockquote>
+    
+    </li>
+    
+    {% endif %}
+    {% endfor %}
+  
+  </u>
+
+<h2>Writers</h2>
+  
+  <ul>
+    
+    {% for author in site.authors %}
+    {% if author.position=="Writer" %}
+    
+    <li>
+      
+      <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
+      <blockquote>{{ author.short_bio }}</blockquote>
+    
+    </li>
+    
+    {% endif %}
+    {% endfor %}
+  
+  </ul>

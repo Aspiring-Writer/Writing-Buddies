@@ -2,6 +2,7 @@
 layout: post
 title: Introduction to Dear Diary
 book: dear-diary
+author: bravisha
 categories: [Fiction, Novella]
 tags: [Romance, Comedy]
 ---

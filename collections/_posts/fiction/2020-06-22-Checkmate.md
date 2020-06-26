@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Checkmate"
-author: ""
+author: 8-Bally
 categories: [Fiction, Short Story]
 tags:
 ---

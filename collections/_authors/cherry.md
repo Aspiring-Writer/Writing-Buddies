@@ -2,6 +2,7 @@
 layout: author
 short_name: cherrythecheery
 name: Cherry
+position: Writer
 ---
 
 Hello! I'm a Capricorn Monkey, INFP-A, and an Enneagram Type Four.
