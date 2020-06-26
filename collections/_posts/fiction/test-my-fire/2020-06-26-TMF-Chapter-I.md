@@ -12,7 +12,7 @@ Zamara Rose scanned the dozens of pictures lining the wall in front of her. Each
 “I’m not sure, what exactly am I seeing?” He replied.
 
 “All of these people were targeted and eliminated by one of the Blackstones, and it seems like it was Logan.”
-
+<!--more-->
 “That’s what I see, I’m just working on the believing part.”
 
 Zamara felt the same way. Logan Blackstone was a prominent millionaire who rose to first class at the age of sixteen. One-third of his money was inherited from his mother and the rest came from his many businesses. Of the entire family, Zamara expected Vladimir to be their killer, not Logan. *And that’s why you don’t assume things.*

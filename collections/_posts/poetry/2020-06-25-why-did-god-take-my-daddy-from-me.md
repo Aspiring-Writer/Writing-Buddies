@@ -6,7 +6,7 @@ series: poetry
 categories: [Poetry]
 tags: [sadness, death, comfort]
 ---
-"Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"
+"Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"<!--more-->
 
 She could still see her Daddy's face smiling at her. She could still feel him holding her hand.
 

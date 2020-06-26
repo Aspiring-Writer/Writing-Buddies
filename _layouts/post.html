@@ -44,8 +44,20 @@ layout: default
         {% endif %}
       </p>
       
+      {% if page.categories.size > 0 %}
+        <p class="post-meta post-categories"><b>Categories: </b>
+          {% assign categories = page.categories | sort %}
+          {% for category in categories %}
+            <span class="post-category">
+              {% assign slugified_category = category | slugify %}
+              <a href="{{ '/categories/#:category' | replace: ':category', slugified_category | relative_url }}">#{{ slugified_category }}</a>
+            </span>
+          {% endfor %}
+        </p>
+      {% endif %}
+      
       {% if page.tags.size > 0 %}
-        <p class="post-meta post-tags">
+        <p class="post-meta post-tags"><b>Tags: </b>
           {% assign tags = page.tags | sort %}
           {% for tag in tags %}
             <span class="post-tag">

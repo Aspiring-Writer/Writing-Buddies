@@ -10,8 +10,8 @@ tags: [writing-tips]
 
 2. The disturbance.
 
-3. Call to adventure (the character can be passive here if needed or actively answer the call) <!--more-->
-
+3. Call to adventure (the character can be passive here if needed or actively answer the call)
+<!--more-->
 4. Character states the plan and starts to move the plot rather than follow someone else’s plan (To pursue their love interest, to not fall in love, to get a job, whatever it might be. This isn’t going to be the final goal.)
 
 5. Complications arise and the plan starts to fail.

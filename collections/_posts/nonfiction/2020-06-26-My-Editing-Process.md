@@ -6,7 +6,8 @@ categories: [Nonfiction]
 tags: [writing-tips]
 ---
 
-Step 1: Let the manuscript sit for a few months. Work on something else to help forget all the tiny details. Or have an alpha reader go over it to speed things up. <!--more-->
+Step 1: Let the manuscript sit for a few months. Work on something else to help forget all the tiny details. Or have an alpha reader go over it to speed things up.
+<!--more-->
 Step 2: Read the entire first draft in 1-2 days, only marking what needs to be changed but not actually changing it. This way bigger problems with the plot and character development will stand out more. Write down major plot points and page numbers on index cards to see if there are long stretches without anything happening.
 
 Step 3: Fix everything marked in Step 2, add or subtract parts as needed to fit into the word count goal, but keep the word count at least 5k above what’s needed. Fix saggy parts.

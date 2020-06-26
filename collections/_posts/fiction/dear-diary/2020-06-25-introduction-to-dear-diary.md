@@ -7,7 +7,7 @@ categories: [Fiction, Novella]
 tags: [Romance, Comedy]
 ---
 *Dear Diary, Do You Wanna Hear A Secret?* started as a funny scene I created in my head. The scene was the one with the truth-or-dare part. I really liked it and decided to write it down. So, at midnight on May 28, 2020, The *Dear Diary, Do You Wanna Hear A Secret?* project was started. It was an absolute joy to write. The words just flowed out of my head and into paper. I have never written chapters so fast. I hope you enjoy it as much as I do.
-
+<!--more-->
 ## Description
 
 All Sasha wanted to do was finish school, get a job she loved, get married, and start a family. Unfortunately, getting past school seems impossible. Between staying on track with her studies and keeping up with her other activities, graduation couldn't be farther away. But then the Stone's show up.

@@ -14,7 +14,7 @@ The feeling that another year has gone by
 And there's still so much more you want to do.
 Time passes so fast,
 And life flies by so quickly.
-
+<!--more-->
 This Mother's Day, I want to catch time and have it stay for a while,
 Because I want to spend some of it with you.
 Not many people take the time to tell their family and friends,

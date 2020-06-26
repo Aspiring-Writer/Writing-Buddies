@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Introduction to Pur Ti Miro
 book: pur-ti-miro
 author: cherrythecheery
 categories: [Fiction, Novel]
@@ -9,7 +10,7 @@ tags: [Romance, Musicians, Violins, Operas, Classical Music, Inspired by Music]
 A violinist and a singer meet again after five years. Despite complications in their personal lives, will their delayed romance finally blend in a harmonious cadence?
 
 Set in 2026 with some flashbacks to 2021, this story uses references from social issues that has happened at the time of writing.
-
+<!--more-->
 **Note:** This is my first attempt at writing fan fiction — or fiction, in general — and this work is turning out to be a lengthy, slow burn, one. I shift perspectives throughout the piece as some form of experiment and to also bring voice to the characters.
 
 As I am a newbie in this genre and the fandom, I would greatly appreciate your feedback. Thank you!

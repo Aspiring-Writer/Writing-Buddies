@@ -10,6 +10,7 @@ tags: [prayer]
 Prayer is a weapon.
 You may not believe it but it's true.
 Prayer is the most powerful weapon you could ever choose.
+<!--more-->
 It's not hard to operate.
 You don't even need a permit.
 No one can take it away from you.
