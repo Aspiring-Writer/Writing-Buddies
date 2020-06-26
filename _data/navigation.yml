@@ -6,6 +6,13 @@
   url: /books/
 - title: Fiction
   url: /fiction/
+  sublinks:
+    - title: Novels
+      url: /fiction/novel/
+    - title: Novellas
+      url: /fiction/novella/
+    - title: Short Stories
+      url: /fiction/short-story/
 - title: Nonfiction
   url: /nonfiction/
 - title: Poetry
