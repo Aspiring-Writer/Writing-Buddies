@@ -4,12 +4,12 @@
   url: /authors/
 - title: Books
   url: /books/
+- title: Series
+  url: /series/
 - title: Fiction
   url: /fiction/
 - title: Nonfiction
   url: /nonfiction/
-- title: Poetry
-  url: /poetry/
 - title: More
   sublinks:
     - title: Categories
@@ -20,5 +20,5 @@
       url: /years/
     - title: FAQ
       url: /faq/
-    - title: Docs
+    - title: Join Us
       url: /docs/
