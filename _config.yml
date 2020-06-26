@@ -5,10 +5,30 @@ description: Plan Together. Write Together. Edit Together. Grow Together.
 baseurl: ""
 url: "https://aspiring-writer.github.io"
 
+permalink: /:categories/:title
+
 paginate: 10
 paginate_path: /page:num/
 
-# Build settings
+collections:
+  authors:
+    output: true
+    permalink: /authors/
+
+collections_dir: collections
+
+defaults:
+  - scope:
+      path: "collections"
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

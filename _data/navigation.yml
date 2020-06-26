@@ -16,6 +16,8 @@
       url: /categories/
     - title: Tags
       url: /tags/
+    - title: Years
+      url: /years/
     - title: FAQ
       url: /faq/
     - title: Docs

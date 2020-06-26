@@ -21,13 +21,10 @@ layout: default
             {{ mdate | date: date_format }}
           </time>
         {%- endif -%}
-        {%- if page.author -%}
-          • {% for author in page.author %}
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-              <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-              {%- if forloop.last == false %}, {% endif -%}
-          {% endfor %}
-        {%- endif -%}
+        {% assign author = site.authors | where: 'short_name', page.author | first %}
+        {% if author %}
+          - <a href="{{ author.url }}">Written by {{ author.name }}</a>
+        {% endif %}
       </p>
       
       {% if page.tags.size > 0 %}
