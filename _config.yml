@@ -18,18 +18,6 @@ collections:
 
 collections_dir: collections
 
-defaults:
-  - scope:
-      path: "collections"
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: "collections"
-      type: "posts"
-    values:
-      layout: "post"
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
