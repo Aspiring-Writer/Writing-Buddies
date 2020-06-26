@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Prayer is a weapon...
+author: bravisha
+series: poetry
+categories: Poetry
+tags: [prayer]
 ---
 
 Prayer is a weapon.

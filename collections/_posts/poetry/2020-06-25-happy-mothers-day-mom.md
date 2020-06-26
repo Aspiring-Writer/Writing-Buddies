@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 'Happy Mother''s Day, Mom'
+author: bravisha
+series: poetry
+categories: Poetry
+tags: [holidays, mothers-day]
 ---
 
 You know that feeling you get when you've became one year older?

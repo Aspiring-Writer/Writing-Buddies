@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Why Did God Take My Daddy From Me?
+author: bravisha
+series: poetry
+categories: [Poetry]
+tags: [sadness, death, comfort]
 ---
 "Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"
 
