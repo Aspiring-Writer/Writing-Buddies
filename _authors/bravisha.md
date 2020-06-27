@@ -1,9 +1,8 @@
 ---
-title: Bravisha
-position: 0
 layout: author
 short_name: bravisha
 name: Bravisha Skietano
+position: Site Maintainer
 short_bio: I'm an eighteen-year-old, homeschooled, Christian student who is struggling
   to stay motivated and finish things.
 ---
