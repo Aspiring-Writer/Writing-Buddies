@@ -21,9 +21,8 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h2>
         {% if post.book %}
-        <h2><em>{{ site.data.book | where: 'id', post.book | map: 'title' }}</em></h2>
+        <span>{{ site.data.book | where: 'id', post.book | map: 'title' }}</span>
         {% assign book-posts = site.posts | reverse | where: 'book', post.book %}
         {% endif %} - 
         <span class="post-meta">{{ post.date | date: date_format }}</span>
