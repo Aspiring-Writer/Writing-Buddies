@@ -23,6 +23,7 @@ layout: default
           </a>
         </h2>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        {{ post.author }}
         {%- if post.show_excerpts != false -%}
           <div class="post-excerpt">{{ post.excerpt }}</div>
         {%- endif -%}
