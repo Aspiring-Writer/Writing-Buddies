@@ -23,7 +23,7 @@ layout: default
           </a>
         </h2>
         {% if post.book %}
-          {{ site.data.book | where: 'id', post.book | map: 'title' }} - 
+          <li><a href="/books/#{{ book.id }}">{{ site.data.book | where: 'id', post.book | map: 'title' }}</a> - 
         {% assign book-posts = site.posts | reverse | where: 'book', post.book %}
         {% endif %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
