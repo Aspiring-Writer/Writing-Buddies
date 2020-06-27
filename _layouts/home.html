@@ -21,6 +21,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+        </h2>
         {% if post.book %}
           {{ site.data.book | where: 'id', post.book | map: 'title' }} - 
         {% assign book-posts = site.posts | reverse | where: 'book', post.book %}
