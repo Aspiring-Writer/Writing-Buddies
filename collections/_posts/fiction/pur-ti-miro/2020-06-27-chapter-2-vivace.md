@@ -4,6 +4,10 @@ title: Chapter 2 ~ Vivace
 author: cherrythecheery
 book: pur-ti-miro
 ---
+## Summary:
+
+Brett harks back to his memory from five years ago of Aimee, whom Eddy wanted to be part of TwoSet Violin.
+<!--more-->
 The hour-long rehearsal with the soprano is Brett’s last musician-duty for the day. 
 
 _But do musicians ever stop being musicians when they aren’t playing? Isn’t the mere act of living — an accumulation of experiences — part of practicing?_ 
