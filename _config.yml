@@ -10,7 +10,7 @@ permalink: /:path
 paginate: 5
 paginate_path: /page:num/
 
-permalink: /:categories/:title
+permalink: /:path
 
 collections:
   authors:
