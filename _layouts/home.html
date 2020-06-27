@@ -22,11 +22,11 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h2>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
         {% if post.book %}
-          <a href="/books/#{{ post.book }}">{{ site.data.book | where: 'id', post.book | map: 'title' }}</a> - 
+         - <a href="/books/#{{ post.book }}">{{ site.data.book | where: 'id', post.book | map: 'title' }}</a>
         {% assign book-posts = site.posts | reverse | where: 'book', post.book %}
         {% endif %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
         {% assign author = site.authors | where: 'short_name', post.author | first %}
         {% if author %}
           - <a href="{{ author.url }}">Written by {{ author.name }}</a>
