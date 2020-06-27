@@ -23,7 +23,7 @@ layout: default
           </a>
         </h2>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {% assign author = site.authors | where: 'short_name', page.author | first %}
+        {% assign author = site.authors | where: 'short_name', post.author | first %}
         {% if author %}
           - <a href="{{ author.url }}">Written by {{ author.name }}</a>
         {% endif %}
