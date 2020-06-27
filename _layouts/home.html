@@ -22,9 +22,9 @@ layout: default
             {{ post.title | escape }}
           </a>
         {% if post.book %}
-        <span>{{ site.data.book | where: 'id', post.book | map: 'title' }}</span>
+          {{ site.data.book | where: 'id', post.book | map: 'title' }} - 
         {% assign book-posts = site.posts | reverse | where: 'book', post.book %}
-        {% endif %} - 
+        {% endif %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         {% assign author = site.authors | where: 'short_name', post.author | first %}
         {% if author %}
