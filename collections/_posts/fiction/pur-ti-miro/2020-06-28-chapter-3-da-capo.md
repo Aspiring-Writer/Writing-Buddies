@@ -15,7 +15,7 @@ those no-context cups of coffee pictures, and the 2020 New Year’s clip when th
 (The latter I only faintly recall. It may have happened differently, and my fertile mind embellished it.)
 
 As you may have gleaned from my username, I share the love of bubble tea with Brett and Eddy. Let this be my tribute to the best drink ever invented. :wink:
-
+<!--more-->
 ***
 
 “Hey! You’re Brett from TwoSet, right?”
