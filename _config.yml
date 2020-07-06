@@ -2,6 +2,8 @@ title: Writing Buddies
 author: Aspiring-Writer & Friends
 email: yaolson01@gmail.com
 description: Plan Together. Write Together. Edit Together. Grow Together.
+baseurl: ""
+url: "https://aspiring-writer.github.io"
 
 permalink: /:path
 
@@ -23,7 +25,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
-remote-theme: ngzhio/jekyll-theme-hamilton
+remote_theme: ngzhio/jekyll-theme-hamilton
 
 include: [_pages]
 
@@ -46,5 +48,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - scripts/
   - README.md
