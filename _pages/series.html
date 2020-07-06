@@ -3,6 +3,7 @@ layout: page
 title: Series
 permalink: /series/
 ---
+
 <ul>
   {% for series in site.data.series %}
     {% assign series-posts = site.posts | reverse | where: 'series', series.id %}
