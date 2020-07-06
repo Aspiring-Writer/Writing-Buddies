@@ -10,8 +10,6 @@ permalink: /:path
 paginate: 5
 paginate_path: /page:num/
 
-permalink: /:path
-
 collections:
   authors:
     output: true
@@ -25,6 +23,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
+
+remote-theme: ngzhio/jekyll-theme-hamilton
 
 include: [_pages]
 
