@@ -1,5 +1,6 @@
 title: Writing Buddies
 author: Aspiring-Writer & Friends
+avatar: /logo.png
 email: yaolson01@gmail.com
 description: Plan Together. Write Together. Edit Together. Grow Together.
 baseurl: ""
@@ -38,14 +39,5 @@ include: [_pages]
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - scripts/
   - README.md
