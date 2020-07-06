@@ -6,8 +6,6 @@ description: Plan Together. Write Together. Edit Together. Grow Together.
 baseurl: ""
 url: "https://aspiring-writer.github.io"
 
-permalink: /:path
-
 paginate: 5
 paginate_path: /page:num/
 
