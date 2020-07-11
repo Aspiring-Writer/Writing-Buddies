@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8f63afc-931d-4061-ab0e-7e05712eae77/deploy-status)](https://app.netlify.com/sites/writing-buddies/deploys)
+
 # Welcome to Writing Buddies!
 
 This site is a communal blog for me and some writing buddies from the Writing Buddies guild on [Habitica](https://habitica.com).
