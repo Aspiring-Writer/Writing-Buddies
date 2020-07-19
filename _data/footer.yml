@@ -3,14 +3,11 @@
 - title: Home
   url: /
 
-- title: Articles
-  url: /articles/
+- title: About Us
+  url: /about/
 
-- title: Books
-  url: /books/
+- title: Sister Sites
+  url: /sister-sites/
 
-- title: Poems
-  url: /poems/
-
-- title: Plays
-  url: /plays/
+- title: GitHub
+  url: https://github.com/Aspiring-Writer/aspiring-writer.github.io
