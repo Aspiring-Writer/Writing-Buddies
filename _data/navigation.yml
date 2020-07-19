@@ -1,20 +1,36 @@
-- title: About
-  url: /about/
-- title: Authors
-  url: /authors/
+# Site navigation links
+
+- title: Articles
+  url: /articles/
+  excerpt:
+  image:
+
 - title: Books
   url: /books/
+  excerpt:
+  image:
+
+- title: Poems
+  url: /poems/
+  excerpt:
+  image:
+
+- title: Plays
+  url: /plays/
+  excerpt:
+  image:
+
 - title: Series
   url: /series/
-- title: Categories
-  url: /categories/
+  excerpt: Some of our articles are part of series, here's a list of all those series.
+  image:
+
+- title: About Us
+  url: /about/
+  excerpt:
+  image:
+
 - title: Tags
   url: /tags/
-- title: Years
-  url: /years/
-- title: More
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Join Us
-      url: https://github.com/Aspiring-Writer/aspiring-writer.github.io/wiki
+  excerpt:
+  image:

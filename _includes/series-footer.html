@@ -1,0 +1,46 @@
+{% if page.book %}
+{% for post in book-posts %}
+  {% if post.url == page.url %}
+    {% assign prev_post_index = forloop.index | minus: 1 %}
+    {% assign curr_post_index = forloop.index %}
+    {% assign next_post_index = forloop.index | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+<h4>Chapter <strong>{{ curr_post_index }}</strong> of <strong>{{ book-posts.size }}</strong>.
+  {% if book-posts.size == 1 %}More chapters coming soon!{% endif %}</h4>
+
+{% for post in book-posts %}
+  {% if prev_post_index == forloop.index %}
+    <a class="back" rel="prev" href="{{ site.baseurl }}{{ post.url }}">&lArr; Prev Chapter</a>
+  {% endif %}
+
+  {% if next_post_index == forloop.index %}
+    <a class="forward" rel="next" href="{{ site.baseurl }}{{ post.url }}">Next Chapter &rArr;</a>
+  {% endif %}
+{% endfor %}
+{% endif %}
+
+{% if page.series %}
+{% for post in series-posts %}
+  {% if post.url == page.url %}
+    {% assign prev_post_index = forloop.index | minus: 1 %}
+    {% assign curr_post_index = forloop.index %}
+    {% assign next_post_index = forloop.index | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+<h4>Post <strong>{{ curr_post_index }}</strong> of <strong>{{ series-posts.size }}</strong>.
+  {% if series-posts.size == 1 %}More posts coming soon!{% endif %}</h4>
+
+{% for post in series-posts %}
+  {% if prev_post_index == forloop.index %}
+    <a class="back" rel="prev" href="{{ site.baseurl }}{{ post.url }}">&lArr; Prev Post</a>
+  {% endif %}
+
+  {% if next_post_index == forloop.index %}
+    <a class="forward" rel="next" href="{{ site.baseurl }}{{ post.url }}">Next Post &rArr;</a>
+  {% endif %}
+{% endfor %}
+{% endif %}
+<hr>

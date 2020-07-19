@@ -1,3 +1,8 @@
+- id: poetry
+  title: Poetry Collection
+  description:
+    This is a collection of poetry written by the Writing Buddies community
+
 - id: cloudtopia
   title: Cloudtopia
   description:
@@ -33,13 +38,13 @@
 - id: pur-ti-miro
   title: Pur Ti Miro
   description:
-    A violinist and a singer meet again after five years. 
+    A violinist and a singer meet again after five years.
     Despite complications in their personal lives, will their delayed romance finally blend in a harmonious cadence?
 
 - id: test-my-fire
   title: Test My Fire
-  description: | 
-    (Her) 
+  description: |
+    (Her)
     <br>
     He killed my parents, not to mention dozens of other people.
     He's only known by the Phantom but I will uncover his identity and make him pay.
@@ -61,4 +66,3 @@
     She's good at the game, but I'm better. The clock is ticking and I'm good at waiting.
     I know she'll come to me, they always do. And when she does, I'll take care of her too.
     Here little fox, come test my fire.
-

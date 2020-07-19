@@ -1,35 +1,44 @@
-title: Writing Buddies
-author: Aspiring-Writer & Friends
-avatar: /logo.png
-email: yaolson01@gmail.com
-description: Plan Together. Write Together. Edit Together. Grow Together.
-baseurl: ""
-url: "https://aspiring-writer.github.io"
+# Site wide configuration
 
-permalink: /:path
+title: "Writing Buddies"
+description: "This is a description of my awesome site."
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url:
+feed:
+  path: atom.xml
 
-paginate: 5
-paginate_path: /page:num/
+# Jekyll configuration
 
-collections:
-  authors:
-    output: true
-
-collections_dir: collections
-
-excerpt_separator: <!--more-->
-
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-remote-theme
+  - jekyll-gist
+  - jekyll-feed
 
-remote_theme: ngzhio/jekyll-theme-hamilton
 
-include: [_pages]
+# Site owner
+owner:
+  name: Aspiring Writer
+  email:
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+
+
+include:
+  - _pages
 
 exclude:
-  - scripts/
-  - README.md
+  - .jekyll-cache
+  - .sass-cache
+  - Gemfile

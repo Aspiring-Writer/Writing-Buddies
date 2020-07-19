@@ -1,0 +1,9 @@
+{% if page.book %}
+<<h2><em>{{ site.data.book | where: 'id', page.book | map: 'title' }}</em></h2>
+{% assign book-posts = site.posts | reverse | where: 'book', page.book %}
+{% endif %}
+
+{% if page.series %}
+<h2><em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em> series</h2>
+{% assign series-posts = site.posts | reverse | where: 'series', page.series %}
+{% endif %}

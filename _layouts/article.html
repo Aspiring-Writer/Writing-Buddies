@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		{% include breadcrumbs.html %}
+		<div class="page-title">
+			{% include series-header.html %}
+			<h1>{{ page.title }}</h1>
+			<div class="post-categories">
+			 {% if post %}
+				 {% assign categories = post.categories %}
+			 {% else %}
+				 {% assign categories = page.categories %}
+			 {% endif %}
+			 <p>Categories:
+			 {% for category in categories %}
+			 <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
+			 {% unless forloop.last %}&nbsp;{% endunless %}
+			 {% endfor %}
+			 </p>
+			</div>
+			<div class="post-tags">
+			 {% if post %}
+				 {% assign tags = post.tags %}
+			 {% else %}
+				 {% assign tags = page.tags %}
+			 {% endif %}
+			 <p>Tags:
+			 {% for tag in tags %}
+			 <a href="{{site.baseurl}}/tags/#{{ tag|slugize }}">{{ tag }}</a>
+			 {% unless forloop.last %}&nbsp;{% endunless %}
+			 {% endfor %}
+			 </p>
+			</div>
+		</div>
+		<div class="inner-wrap">
+			<div id="content" class="page-content" itemprop="articleBody">
+				{{ content }}
+				<hr />
+				<footer class="page-footer">
+					{% include series-footer.html %}
+					{% if page.categories %}{% include page-author.html %}{% endif %}
+					{% if page.share != false %}{% include share-this.html %}{% endif %}
+					{% include page-meta.html %}
+				</footer><!-- /.footer -->
+				<aside>
+					{% if page.comments == true %}{% include comments.html %}{% endif %}
+				</aside>
+			</div><!-- /.content -->
+		</div><!-- /.inner-wrap -->
+		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+	</article><!-- ./wrap -->
+</div><!-- /#main -->
