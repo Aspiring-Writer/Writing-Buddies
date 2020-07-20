@@ -6,7 +6,7 @@ author: cherrythecheery
 image:
   teaser:
   feature:
-categories: [books, Pur-Ti-Miro]
+categories: [books, pur-ti-miro]
 tags: [Fiction, Novel, Romance, Musicians, Violins, Operas, Classical Music, Inspired by Music]
 ---
 

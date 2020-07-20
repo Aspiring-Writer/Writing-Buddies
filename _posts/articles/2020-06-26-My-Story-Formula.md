@@ -1,9 +1,12 @@
 ---
-layout: post
+layout: article
 title: My Story Formula
 author: LidiaPZakut
-categories: [Nonfiction]
-tags: [writing-tips]
+image:
+  teaser: 
+  feature: 
+categories: [articles]
+tags: [Nonfiction, Writing Tips]
 ---
 
 1. Characters in their natural habitat

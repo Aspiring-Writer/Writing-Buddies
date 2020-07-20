@@ -1,0 +1,29 @@
+I"'<div class="tiles">
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/articles/My-Story-Formula" title="My Story Formula" class="post-teaser"><img src="http://localhost:4000/images/book-863418_640.jpg" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-06-26" itemprop="datePublished">June 26, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/articles/My-Story-Formula">My Story Formula</a></h2>
+  <p class="post-excerpt" itemprop="description">
+  
+    Characters in their natural habitat
+  
+  
+    The disturbance.
+  
+  
+    Call to adventure (the character can be passive here if needed or actively a...</p>
+</article><!-- /.tile -->
+
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/articles/My-Editing-Process" title="My Editing Process" class="post-teaser"><img src="http://localhost:4000/images/book-863418_640.jpg" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-06-26" itemprop="datePublished">June 26, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/articles/My-Editing-Process">My Editing Process</a></h2>
+  <p class="post-excerpt" itemprop="description">Step 1: Let the manuscript sit for a few months. Work on something else to help forget all the tiny details. Or have an alpha reader go over it to speed thin...</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET

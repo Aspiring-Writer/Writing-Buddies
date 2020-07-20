@@ -6,7 +6,7 @@ author: bravisha_skietano
 image:
   teaser:
   feature:
-categories: [books, Kidnapped-and-Afraid]
+categories: [books, kidnapped-and-afraid]
 tags: [Fiction, Novel, Mystery & Suspense, Fantasy, Thriller]
 ---
 
