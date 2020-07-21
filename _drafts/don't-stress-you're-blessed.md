@@ -1,6 +1,8 @@
 ---
 title: Don't Stress, You're Blessed
-date: 2020-07-21 05:43:07 Z
+date: 2020-07-21 05:43:00 Z
+categories:
+- poetry
 layout: post
 ---
 
