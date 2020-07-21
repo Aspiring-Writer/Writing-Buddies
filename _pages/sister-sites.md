@@ -1,5 +1,6 @@
 ---
-layout: article
 title: Sister Sites
-permalink: /sister-sites/
+permalink: "/sister-sites/"
+layout: article
 ---
+
