@@ -1,5 +1,5 @@
 ---
-title: About This Site
+title: About Us
 permalink: "/about/"
 layout: article
 ---
@@ -21,6 +21,3 @@ A lot of times they are a hastle to set up.But then, I found Jekyll and GitHub P
 
 [Jekyll](http://jekyllrb.com/) is a [static site generator](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/) that is integrated with GitHub Pages. I came across Jekyll when I was doing my research on the best free blogging platforms.
 It appealed to my inner coder side. Everything is created by you and owned by you.
-
-
-## The Beginning

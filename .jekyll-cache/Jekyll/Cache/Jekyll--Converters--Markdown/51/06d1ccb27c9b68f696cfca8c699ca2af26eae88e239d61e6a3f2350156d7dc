@@ -1,0 +1,8 @@
+I"%<form action="https://formspree.io/mwkrakrl" method="POST">
+  <label>Name:<input type="text" name="name" /></label>
+  <label>Email:<input type="email" name="_replyto" /></label>
+  <label>Your message: <textarea name="message"></textarea></label>
+  <button type="submit">Send</button>
+</form>
+
+:ET
