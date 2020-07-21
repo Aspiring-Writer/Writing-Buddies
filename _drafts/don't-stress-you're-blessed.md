@@ -1,6 +1,6 @@
 ---
 title: Don't Stress, You're Blessed
-date: 2020-07-21 05:43:07.441000000 Z
+date: 2020-07-21 05:43:07 Z
 layout: post
 ---
 

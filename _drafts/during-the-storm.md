@@ -1,6 +1,6 @@
 ---
 title: During The Storm
-date: 2020-07-21 05:43:07.474000000 Z
+date: 2020-07-21 05:43:07 Z
 layout: post
 ---
 
