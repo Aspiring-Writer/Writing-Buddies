@@ -4,8 +4,8 @@ book: cloudtopia
 title: Introduction to Cloudtopia
 author: bravisha_skietano
 image:
-  teaser: fantasy-3077928.jpg
-  feature: fantasy-3077928.jpg
+  teaser: fantasy-3077928_1280.jpg
+  feature: fantasy-3077928_1280.jpg
   credit: peter_pyw from Pixabay
   creditlink: pixabay.com/users/peter_pyw-2946451/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3077928
 categories: [books, cloudtopia]
