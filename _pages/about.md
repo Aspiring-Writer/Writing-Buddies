@@ -1,7 +1,7 @@
 ---
-layout: article
 title: About This Site
-permalink: /about/
+permalink: "/about/"
+layout: article
 ---
 
 ## The Purpose

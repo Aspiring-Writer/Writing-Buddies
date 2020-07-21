@@ -1,7 +1,7 @@
 ---
+title: Articles by the Community
+permalink: "/articles/"
 layout: archive
-permalink: /articles/
-title: "Articles by the Community"
 ---
 
 <div class="tiles">

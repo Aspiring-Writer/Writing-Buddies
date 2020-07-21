@@ -1,7 +1,7 @@
 ---
+title: Plays by the Community
+permalink: "/plays/"
 layout: archive
-permalink: /plays/
-title: "Plays by the Community"
 ---
 
 <div class="tiles">

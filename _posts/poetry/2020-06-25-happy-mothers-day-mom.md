@@ -1,13 +1,17 @@
 ---
+title: Happy Mother's Day, Mom
+date: 2020-06-25 00:00:00 Z
+categories:
+- poetry
+tags:
+- Holidays
+- Mother's Day
 layout: article
-title: 'Happy Mother''s Day, Mom'
 author: bravisha_skietano
 book: poetry
 image:
-  teaser:
-  feature:
-categories: [poetry]
-tags: [Holidays, Mother's Day]
+  teaser: 
+  feature: 
 ---
 
 You know that feeling you get when you've became one year older?

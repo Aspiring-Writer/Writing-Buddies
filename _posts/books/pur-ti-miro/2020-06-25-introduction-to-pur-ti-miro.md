@@ -1,13 +1,24 @@
 ---
-layout: article
 title: Introduction to Pur Ti Miro
+date: 2020-06-25 00:00:00 Z
+categories:
+- books
+- pur-ti-miro
+tags:
+- Fiction
+- Novel
+- Romance
+- Musicians
+- Violins
+- Operas
+- Classical Music
+- Inspired by Music
+layout: article
 book: pur-ti-miro
 author: cherrythecheery
 image:
-  teaser:
-  feature:
-categories: [books, pur-ti-miro]
-tags: [Fiction, Novel, Romance, Musicians, Violins, Operas, Classical Music, Inspired by Music]
+  teaser: 
+  feature: 
 ---
 
 A violinist and a singer meet again after five years. Despite complications in their personal lives, will their delayed romance finally blend in a harmonious cadence?

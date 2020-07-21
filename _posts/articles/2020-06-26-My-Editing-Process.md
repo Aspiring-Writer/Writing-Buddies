@@ -1,9 +1,13 @@
 ---
-layout: article
 title: My Editing Process
+date: 2020-06-26 00:00:00 Z
+categories:
+- articles
+tags:
+- Nonfiction
+- Writing Tips
+layout: article
 author: LidiaPZakut
-categories: [articles]
-tags: [Nonfiction, Writing Tips]
 ---
 
 Step 1: Let the manuscript sit for a few months. Work on something else to help forget all the tiny details. Or have an alpha reader go over it to speed things up.

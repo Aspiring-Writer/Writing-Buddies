@@ -1,7 +1,7 @@
 ---
+title: Poems by the Community
+permalink: "/poems/"
 layout: archive
-permalink: /poems/
-title: "Poems by the Community"
 ---
 
 <div class="tiles">

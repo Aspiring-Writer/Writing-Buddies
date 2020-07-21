@@ -1,14 +1,22 @@
 ---
-layout: article
 title: Introduction to Dear Diary
+date: 2020-06-25 00:00:00 Z
+categories:
+- books
+- dear-diary
+tags:
+- Fiction
+- Novella
+- Romance
+- Comedy
+layout: article
 book: dear-diary
 author: bravisha_skietano
 image:
-  teaser:
-  feature:
-categories: [books, dear-diary]
-tags: [Fiction, Novella, Romance, Comedy]
+  teaser: 
+  feature: 
 ---
+
 *Dear Diary, Do You Wanna Hear A Secret?* started as a funny scene I created in my head. The scene was the one with the truth-or-dare part. I really liked it and decided to write it down. So, at midnight on May 28, 2020, The *Dear Diary, Do You Wanna Hear A Secret?* project was started. It was an absolute joy to write. The words just flowed out of my head and into paper. I have never written chapters so fast. I hope you enjoy it as much as I do.
 
 ## Description

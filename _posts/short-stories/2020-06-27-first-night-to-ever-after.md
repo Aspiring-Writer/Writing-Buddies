@@ -1,13 +1,21 @@
 ---
-layout: article
 title: First Night to Ever After ~ a Brett x Reader one-shot
+date: 2020-06-27 00:00:00 Z
+categories:
+- short-stories
+tags:
+- Fiction
+- Short Story
+- Romance
+- Mental Health Issues
+- PTSD
+layout: article
 author: cherrythecheery
 image:
-  teaser:
+  teaser: 
   feature: 
-categories: [short-stories]
-tags: [Fiction, Short Story, Romance, Mental Health Issues, PTSD]
 ---
+
 ## Summary:
 The reader (written in first-person POV) marries Brett in a simple but heartfelt beach wedding attended by friends and family.
 The night of the wedding is muddled by a past experience that goes ashore, but Brett proves he is the best husband there could possibly be.

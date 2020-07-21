@@ -1,13 +1,16 @@
 ---
-layout: article
 title: Chapter 3 ~ Da Capo
+layout: article
 book: pur-ti-miro
 author: cherrythecheery
 image:
-  teaser:
-  feature:
-categories: [books, pur-ti-miro]
-excerpt: Reminiscing the blossoming of their friendship in a milk tea shop where they first met, Brett and Aimee go back to where it all began.
+  teaser: 
+  feature: 
+categories:
+- books
+- pur-ti-miro
+excerpt: Reminiscing the blossoming of their friendship in a milk tea shop where they
+  first met, Brett and Aimee go back to where it all began.
 ---
 
 ## Notes

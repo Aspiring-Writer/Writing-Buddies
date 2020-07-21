@@ -1,6 +1,7 @@
 ---
+title: During The Storm
+date: 2020-07-21 05:43:07.474000000 Z
 layout: post
-title: 
 ---
 
 Writing Prompt: "I love to motivate others and let them know that God is still here during the rain even when it gets hard to see Him. After all, you can't always see someone who's walking right beside you when it's pouring, all you can see is the shadow reminding you they're still there."

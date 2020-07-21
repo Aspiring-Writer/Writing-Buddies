@@ -1,13 +1,18 @@
 ---
-layout: article
 title: Checkmate
+date: 2020-06-22 00:00:00 Z
+categories:
+- plays
+tags:
+- Fiction
+- Short Story
+layout: article
 author: 8-Bally
 image:
-  teaser:
+  teaser: 
   feature: 
-categories: [plays]
-tags: [Fiction, Short Story]
 ---
+
 The story begins in a sports stadium, where two players are battling it out. They are not playing soccer or football, but chess. As dull as it seems to our world, the people in this world love this game. When the white queen captures the black king, the crowd celebrates for the winner. But that is not all! When the mob leaves the stadium to go home, an unexpected explosion blows up in a nearby house. The town having their cell phones out, the firemen rush into the home on fire. The four people in the house are dead, the firemen realize, with their bodies on fire. But the dead people's neighbors say that there is a 5th, of whom which is a baby who is just born.
 
 Near a forest, a food truck is driving towards a supermarket. But then, a tree fell onto a road. The truck driver stops and calls for help. While he is doing that though, animals showed from the forest and took all of the food out of the truck out of the driver's notice. After the animals flee to the forest, they notice that they took a human baby covered in a purple blanket. Tiger, leader of the animals in the Casa Forest, decided to raise him and name him Purple. But he needs all of the animals because raising a child doesn't take one animal, it takes a whole forest.

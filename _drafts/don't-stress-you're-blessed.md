@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Don't Stress, You're Blessed
+date: 2020-07-21 05:43:07.441000000 Z
+layout: post
 ---
 
 Emily peeked out the curtain and saw the hundreds of people getting seated. The butterflies in her stomach started fluttering again. She took a deep breath.

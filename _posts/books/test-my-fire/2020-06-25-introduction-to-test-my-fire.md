@@ -1,13 +1,20 @@
 ---
-layout: article
 title: Introduction to Test My Fire
+date: 2020-06-25 00:00:00 Z
+categories:
+- books
+- test-my-fire
+tags:
+- Fiction
+- Novel
+- Mystery & Suspense
+- Thriller
+layout: article
 book: test-my-fire
 author: bravisha_skietano
 image:
-  teaser:
-  feature:
-categories: [books, test-my-fire]
-tags: [Fiction, Novel, Mystery & Suspense, Thriller]
+  teaser: 
+  feature: 
 ---
 
 ## Description

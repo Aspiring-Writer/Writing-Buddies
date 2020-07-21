@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Bartle
+date: 2020-06-22 00:00:00 Z
+categories:
+- Fiction
+- Short Story
+layout: post
 author: 8-Bally
-categories: [Fiction, Short Story]
-tags:
 ---
 
 After going through a mystic portal, the medieval people of Virgi, Coraline, Washington are transported to the world of Talber, where people can take a small vacation from life.
