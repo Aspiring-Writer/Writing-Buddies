@@ -8,10 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+  pages:
+    title: Pages
+    output: true
 description: A communal blog for writers of all ages and levels to share there work
   for free.
-logo: favicon.ico
-teaser: book-863418_640.jpg
+logo: nib-145703_640.png
+teaser: paper-3033204_1280.jpg
 locale: en
 url: http://writing-buddies.siteleaf.net
 feed:
@@ -21,7 +24,7 @@ sass:
   style: compressed
 permalink: "/:categories/:title"
 kramdown:
-  toc_levels: 1..5
+  toc_levels: 1..4
 highlighter: rouge
 plugins:
 - jekyll-sitemap
