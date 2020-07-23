@@ -1,7 +1,7 @@
 ---
-layout: article
 title: Join Us
-permalink: /join-us/
+permalink: "/join-us/"
+layout: article
 comments: false
 ---
 
