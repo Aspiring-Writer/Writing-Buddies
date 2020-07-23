@@ -41,3 +41,4 @@ exclude:
 - ".jekyll-cache"
 - ".sass-cache"
 - Gemfile
+- CNAME
