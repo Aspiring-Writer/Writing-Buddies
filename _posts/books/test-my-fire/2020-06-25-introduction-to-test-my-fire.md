@@ -1,6 +1,6 @@
 ---
 title: Introduction to Test My Fire
-date: 2020-06-25 00:00:00 Z
+date: 2020-06-24 20:00:00 -04:00
 categories:
 - books
 - test-my-fire
@@ -9,12 +9,14 @@ tags:
 - Novel
 - Mystery & Suspense
 - Thriller
-layout: article
 book: test-my-fire
 author: bravisha_skietano
 image:
-  teaser: 
-  feature: 
+  teaser: fire-2821775_1920.jpg
+  feature: fire-2821775_1920.jpg
+  credit: Ronald Plett
+  creditlink: pixabay.com/users/RonaldPlett-5139674/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2821775
+layout: article
 ---
 
 ## Description
