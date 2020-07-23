@@ -13,7 +13,7 @@ description: A communal blog for writers of all ages and levels to share there w
 logo: favicon.ico
 teaser: book-863418_640.jpg
 locale: en
-url: https://aspiring-writer.github.io
+url: http://writing-buddies.siteleaf.net
 feed:
   path: atom.xml
 sass:
