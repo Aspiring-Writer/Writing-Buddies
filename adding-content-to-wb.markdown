@@ -64,6 +64,8 @@ The current categories are:
 
 * short-stories
 
+That is for the first category, the second category should be the book and/or series associated with your post. Some posts may have more than two categories, others just one, it really doesn't matter as long as you have less than 5.
+
 The reason why this field cannot be anything you want is that the categories you set will show up in the URL. For example, if I created a post titled "My Cool Post" and assigned the categories "articles" and "random", the URL for that post would be aspiring-writer.github.io/araticles/random/my-cool-post. Do you see how the categories affect the URL? Whatever categories you set will be reflected in the URL between the site's name and your post's title in the exact same order you set them. They should not be changed.
 
 > **GitHub Users:**
