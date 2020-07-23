@@ -1,6 +1,6 @@
 ---
 title: Writing Buddies
-timezone: UTC
+timezone: EST
 collections:
   images:
     title: Images
@@ -12,7 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: This is a description of my awesome site.
+description: A communal blog for writers of all ages and levels to share there work for free.
 logo: favicon.ico
 teaser: book-863418_640.jpg
 locale: en
@@ -32,12 +32,12 @@ plugins:
 - jekyll-feed
 owner:
   name: Aspiring Writer
-  email: 
+  email: aspiring-writer@outlook.com
   google:
     ad-client: 
     ad-slot: 
   bio: 
-  avatar: bio-photo.jpg
+  avatar: avatar-bravisha.jpg
 include:
 - _pages
 exclude:
