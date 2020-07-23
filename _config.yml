@@ -5,9 +5,10 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
+  images:
+    title: Images
     output: true
+    directory: /images/
 description: This is a description of my awesome site.
 logo: favicon.ico
 teaser: book-863418_640.jpg
@@ -41,4 +42,3 @@ exclude:
 - ".jekyll-cache"
 - ".sass-cache"
 - Gemfile
-- CNAME
