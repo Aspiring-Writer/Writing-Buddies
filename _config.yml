@@ -20,7 +20,7 @@ sass:
   style: compressed
 permalink: "/:categories/:title"
 kramdown:
-  toc_levels: 1..2
+  toc_levels: 1..2..3..4..5
 highlighter: rouge
 plugins:
 - jekyll-sitemap
@@ -38,6 +38,7 @@ include:
 - _pages
 exclude:
 - _site
-- ".jekyll-cache"
-- ".sass-cache"
+- .jekyll-cache
+- .sass-cache
 - Gemfile
+- CNAME
