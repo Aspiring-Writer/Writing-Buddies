@@ -121,7 +121,7 @@ The next steps are only needed if you are crediting the image:
 
 ---
 
-That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly.
+That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly. One last thing, if you want to add a "Table of Contents" add {% include toc.html %} to the start of the document (under the frontmatter for you GitHub users) followed by an empty line and your post content.
 
 Make sure you bookmark this page for easy reference later!
 
