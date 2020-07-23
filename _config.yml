@@ -25,6 +25,7 @@ kramdown:
 highlighter: rouge
 plugins:
 - jekyll-sitemap
+- jekyll-gist
 - jekyll-feed
 owner:
   name: Aspiring Writer
@@ -37,7 +38,6 @@ owner:
 include:
 - _pages
 exclude:
-- _site
 - ".jekyll-cache"
 - ".sass-cache"
 - Gemfile
