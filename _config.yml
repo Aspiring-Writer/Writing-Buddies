@@ -12,7 +12,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: A communal blog for writers of all ages and levels to share there work for free.
+description: A communal blog for writers of all ages and levels to share there work
+  for free.
 logo: favicon.ico
 teaser: book-863418_640.jpg
 locale: en
