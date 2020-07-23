@@ -1,12 +1,12 @@
 ---
 title: Adding Content To W.B.
-date: 2020-07-23 05:12:00 Z
+date: 2020-07-23 00:12:00 -05:00
 layout: article
 ---
 
-{% include toc.html %}
-
 This site is meant to be a community for writers of all ages to share their work and receive feedback. It would be pretty weird if I never shared with you how to take advantage of that and join the community, right? Well, that's what this article is going to do.
+
+{% include toc.html %}
 
 ## Behind The Scenes
 
@@ -121,7 +121,7 @@ The next steps are only needed if you are crediting the image:
 
 ---
 
-That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly. One last thing, if you want to add a "Table of Contents" add {% include toc.html %} to the start of the document (under the frontmatter for you GitHub users) followed by an empty line and your post content.
+That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly. One last thing, if you want to add a "Table of Contents" add "{% include toc.html %}" (without the quotes) wherever you want to TOC to be. There should be an empty line preceding and following the include.
 
 Make sure you bookmark this page for easy reference later!
 
