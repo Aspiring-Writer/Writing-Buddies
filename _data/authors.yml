@@ -39,7 +39,7 @@ bravisha_skietano:
 
 cherrythecheery:
   name: Cherry
-  web: https://www.cherishmysong.com
+  web: # https://www.cherishmysong.com
   email:
   bio:
     Hello! I'm a Capricorn Monkey, INFP-A, and an Enneagram Type Four.
@@ -51,7 +51,6 @@ cherrythecheery:
     <br><br>
     I'm passionate about journalism and, more recently, rediscovered my fascination with classical music.
     An old soul who still prefers writing with pen and paper,
-    I keep an online personal journal at www.cherishmysong.com :)
   avatar: avatar-cherry.png
   twitter:
 
