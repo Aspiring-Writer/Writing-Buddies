@@ -38,7 +38,7 @@ include:
 - _pages
 exclude:
 - _site
-- .jekyll-cache
-- .sass-cache
+- ".jekyll-cache"
+- ".sass-cache"
 - Gemfile
 - CNAME
