@@ -23,6 +23,26 @@ book-419589_1920.jpg
   credit: Daria Głodowska
   creditlink: pixabay.com/users/DGlodowska-388133/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=419589
 
+fantasy-4359903_1920.jpg
+  credit: Enrique Meseguer
+  creditlink: pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4359903
+
+fantasy-4870511_1920.jpg
+  credit: Enrique Meseguer
+  creditlink: pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4870511
+
+fire-2821775_1920.jpg
+  credit: Ronald Plett
+  creditlink: pixabay.com/users/RonaldPlett-5139674/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2821775
+
+flame-726268_1920.jpg
+  credit: Rudy and Peter Skitterians
+  creditlink: pixabay.com/users/Skitterphoto-324082/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=726268
+
+gothic-3719055_1920.jpg
+  credit: Enrique Meseguer
+  creditlink: pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3719055
+
 key-2471007_1920.jpg
   credit: S. Hermann &amp; F. Richter
   creditlink: pixabay.com/users/pixel2013-2364555/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2471007
@@ -34,6 +54,14 @@ key-2471016_1920.jpg
 literature-3060241_1920.jpg
   credit: Jess Bailey
   creditlink: pixabay.com/users/JessBaileyStudio-7369896/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3060241
+
+man-4393964_1920.jpg
+  credit: SamWilliamsPhoto
+  creditlink: pixabay.com/users/SamWilliamsPhoto-10634669/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4393964
+
+mysterious-5100676_1920.jpg
+  credit: SamWilliamsPhoto
+  creditlink: pixabay.com/users/SamWilliamsPhoto-10634669/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5100676
 
 notebook-3297317_1920.jpg
   credit: Monfocus
@@ -55,9 +83,17 @@ paper-3215196_1920.jpg
   credit: S. Hermann &amp; F. Richter
   creditlink: pixabay.com/users/pixel2013-2364555/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3215196
 
+portrait-4182841_1920.jpg
+  credit: Enrique Meseguer
+  creditlink: pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4182841
+
 scrapbook-1287353_1920.jpg
   credit: LwcyD
   creditlink: pixabay.com/users/LwcyD-19110/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1287353
+
+street-789626_1920.jpg
+  credit: donterase
+  creditlink: pixabay.com/users/donterase-1070369/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=789626
 
 typewriter-801921_1920.jpg
   credit: Free-Photos
@@ -66,5 +102,4 @@ typewriter-801921_1920.jpg
 writing-1209121_1920.jpg
   credit: Free-Photos
   creditlink: pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1209121
-
 
