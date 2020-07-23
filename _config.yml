@@ -2,10 +2,6 @@
 title: Writing Buddies
 timezone: EST
 collections:
-  images:
-    title: Images
-    output: true
-    directory: "/images/"
   posts:
     title: Posts
     output: true
@@ -25,11 +21,10 @@ sass:
   style: compressed
 permalink: "/:categories/:title"
 kramdown:
-  toc_levels: 1..2..3..4..5
+  toc_levels: 1..5
 highlighter: rouge
 plugins:
 - jekyll-sitemap
-- jekyll-gist
 - jekyll-feed
 owner:
   name: Aspiring Writer
