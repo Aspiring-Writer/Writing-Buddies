@@ -42,6 +42,8 @@ After reading the articles above, you should have a pretty good idea of what to 
 
 The first metadata field that you should see on the left of Siteleaf's post editor is the TAGS field. In this field, you will put the genres of your work and any other tags you want to help categorize your post, ie. Fiction, Romance, Drama, etc. When you click on it, a dropdown menu should appear showing you the currently available options, though you are not limited to them alone. All of these are case sensitive and I would prefer if you capitalized each word just to make it look prettier on the [tags page](/tags/).
 
+For books, please only include tags on the introductory post. The reason for this is that I don't want to fill up the tags' page with a bunch of book chapters and articles.
+
 > **GitHub Users:**
 >
 >     tags:
