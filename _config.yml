@@ -8,9 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  pages:
-    title: Pages
-    output: true
 description: A communal blog for writers of all ages and levels to share there work
   for free.
 logo: nib-145703_640.png

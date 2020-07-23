@@ -2,6 +2,7 @@
 title: Adding Content To W.B.
 date: 2020-07-23 03:20:00 -04:00
 layout: article
+permalink: /adding-content-to-wb
 ---
 
 This site is meant to be a community for writers of all ages to share their work and receive feedback. It would be pretty weird if I never shared with you how to take advantage of that and join the community, right? Well, that's what this article is going to do.
