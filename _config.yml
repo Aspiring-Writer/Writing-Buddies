@@ -21,7 +21,7 @@ sass:
   style: compressed
 permalink: "/:categories/:title"
 kramdown:
-  toc_levels: 1..4
+  toc_levels: 1..2
 highlighter: rouge
 plugins:
 - jekyll-sitemap
