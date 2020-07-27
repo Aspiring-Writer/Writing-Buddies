@@ -1,0 +1,46 @@
+I"/<div class="tiles">
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/poetry/why-did-god-take-my-daddy-from-me" title="Why Did God Take My Daddy From Me?" class="post-teaser"><img src="http://localhost:4000/images/paper-3033204_1280.jpg" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-06-24" itemprop="datePublished">June 24, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/poetry/why-did-god-take-my-daddy-from-me">Why Did God Take My Daddy From Me?</a></h2>
+  <p class="post-excerpt" itemprop="description">“Why did God take him?” The girl yelled, “Why is he gone? Why would God take my Daddy from me?” She sobbed. “How can this part of God’s plan for me?”
+</p>
+</article><!-- /.tile -->
+
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/poetry/today" title="Today" class="post-teaser"><img src="http://localhost:4000/images/paper-3033204_1280.jpg" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-06-24" itemprop="datePublished">June 24, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/poetry/today">Today</a></h2>
+  <p class="post-excerpt" itemprop="description">Sometimes I wonder what’s different ‘bout today
+It doesn’t take long till I find something to say.
+Every day is different in its own way.
+Every day is specia...</p>
+</article><!-- /.tile -->
+
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/poetry/prayer-is-a-weapon" title="Prayer is a weapon..." class="post-teaser"><img src="http://localhost:4000/images/paper-3033204_1280.jpg" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-06-24" itemprop="datePublished">June 24, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/poetry/prayer-is-a-weapon">Prayer is a weapon...</a></h2>
+  <p class="post-excerpt" itemprop="description">Prayer is a weapon.
+You may not believe it but it’s true.
+Prayer is the most powerful weapon you could ever choose.
+</p>
+</article><!-- /.tile -->
+
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/poetry/happy-mothers-day-mom" title="Happy Mother's Day, Mom" class="post-teaser"><img src="http://localhost:4000/images/paper-3033204_1280.jpg" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-06-24" itemprop="datePublished">June 24, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/poetry/happy-mothers-day-mom">Happy Mother's Day, Mom</a></h2>
+  <p class="post-excerpt" itemprop="description">You know that feeling you get when you’ve became one year older?
+Or that feeling you get every new year?
+That feeling of time passing quicker than you imagin...</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET

@@ -1,0 +1,17 @@
+I"ó<p>Fill out this form to let the admins know you want to join the Writing Buddies community!</p>
+
+<p>Be sure to check out the <a href="/adding-content-to-wb">tutorial about adding content</a>.</p>
+
+<form action="https://formspree.io/xqkywqgp" method="POST">
+  <label>Name:<input type="text" name="name" /></label>
+  <label>Email:<input type="email" name="_replyto" /></label>
+  <label>What genres do you normally write about?<textarea name="message"></textarea></label>
+  <label>How often do you write? Doesn't need to be exact, it just gives us a general idea of how often people will be posting content.<textarea name="message"></textarea></label>
+  <label>Do you include any themes that may be uncomfortable for other readers in your writing? If so, please specify.<textarea name="message"></textarea></label>
+  <label>Do you agree not to include any explicit content?<textarea name="message"></textarea></label>
+  <label>Would you be interested in helping the site maintainers? This requires that you know how to use GitHub and are comfortable with HTML, CSS, and Jekyll<textarea name="message"></textarea></label>
+  <button type="submit">Send</button>
+</form>
+
+<p>After you submit this form, an admin will email you about any further steps you need to take.</p>
+:ET
