@@ -125,7 +125,9 @@ The next steps are only needed if you are crediting the image:
 
 ---
 
-That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly. One last thing, if you want to add a "Table of Contents" add "{% include toc.html %}" (without the quotes) wherever you want to TOC to be. There should be an empty line preceding and following the include.
+That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly. One last thing, if you want to add a "Table of Contents" add `{% include toc.html %}` wherever you want the TOC to be. There should be an empty line preceding and following the include.
+
+***
 
 If you ever need to refer back to this page, you can find it in the site's footer with the title "Join The Community"
 
