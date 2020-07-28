@@ -34,7 +34,11 @@ After reading the articles above, you should have a pretty good idea of what to 
 
 ### Table of Contents
 
-If you want to add a "Table of Contents" add `include toc.html` enclosed by `{%` and `%}` (make sure there are spaces inbetween them) wherever you want the TOC to be. There should be an empty line preceding and following the include.
+If you want to add a "Table of Contents" include toc.html wherever you want the TOC to be. There should be an empty line preceding and following the include.
+
+```
+{% include toc.html %}
+```
 
 ### Videos
 
