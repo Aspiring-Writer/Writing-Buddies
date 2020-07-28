@@ -133,4 +133,7 @@ If you ever need to refer back to this page, you can find it in the site's foote
 
 Now go start writing your posts!
 
-![](adding-metadata.webm)
+<video width="320" height="240" controls>
+  <source src="_uploads/adding-metadata.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
