@@ -1,6 +1,6 @@
 ---
 title: Introduction to Dear Diary
-date: 2020-06-25 00:00:00 Z
+date: 2020-06-24 20:00:00 -04:00
 categories:
 - books
 - dear-diary

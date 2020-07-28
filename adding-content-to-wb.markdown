@@ -1,7 +1,6 @@
 ---
 title: Adding Content To W.B.
 date: 2020-07-23 03:20:00 -04:00
-permalink: "/adding-content-to-wb"
 layout: article
 ---
 
@@ -33,9 +32,9 @@ There are many videos on how to use Siteleaf, so I won't go into detail here. It
 
 ### Metadata Fields
 
-After reading the articles above, you should have a pretty good idea of what to do to start writing your posts. The only thing I need to go over is the metadata fields that you must use for your posts.
+After reading the articles above, you should have a pretty good idea of what to do to start writing your posts. The only thing I need to go over is the metadata fields that you must use for your posts (scroll to the bottom for a video demonstrating this).
 
-**All of these are case sensitive!**
+**All of these are case sensitive! And everything except the categories can be set in whatever order.**
 
 > **GitHub Users:** these metadata fields are just the YAML Frontmatter
 
@@ -128,6 +127,8 @@ The next steps are only needed if you are crediting the image:
 
 That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly. One last thing, if you want to add a "Table of Contents" add "{% include toc.html %}" (without the quotes) wherever you want to TOC to be. There should be an empty line preceding and following the include.
 
-Make sure you bookmark this page for easy reference later!
+If you ever need to refer back to this page, you can find it in the site's footer with the title "Join The Community"
 
 Now go start writing your posts!
+
+![](adding-metadata.webm)
