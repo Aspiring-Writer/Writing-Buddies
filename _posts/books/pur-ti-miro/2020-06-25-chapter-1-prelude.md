@@ -4,8 +4,8 @@ date: 2020-06-25 20:00:00 -04:00
 categories:
 - books
 - pur-ti-miro
-book: pur-ti-miro
-author: cherrythecheery
+book: Pur Ti Miro
+author: Cherry
 image:
   teaser-image: 
   feature-image: 
