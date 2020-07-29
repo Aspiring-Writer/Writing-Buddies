@@ -28,6 +28,15 @@ defaults:
     layout: author
     avatar: 
     short_bio: 
+- scope:
+    path: ''
+    type: books
+  values:
+    permalink: "/books/:title"
+    layout: book
+    author: 
+    image: 
+      teaser-image: 
 description: A communal blog for writers of all ages and levels to share there work
   for free.
 logo: nib-145703_640.png
