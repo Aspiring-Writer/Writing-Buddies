@@ -27,7 +27,7 @@ defaults:
     permalink: "/authors/:title"
     layout: author
     avatar: 
-    short_bio: 
+    excerpt: 
 - scope:
     path: ''
     type: books
