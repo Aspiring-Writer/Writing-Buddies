@@ -1,0 +1,8 @@
+<h1 class="name">{{ page.title }}</h1>
+<div class="bio">{{ page.content }}</div>
+<div class="avata">{{ page.avatar }}</div>
+
+{% assign posts = site.posts | where: 'author', page.title %}
+{% for post in posts %}
+  {% include post-grid.html %}
+{% endfor %}
