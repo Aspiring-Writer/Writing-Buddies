@@ -3,6 +3,7 @@ layout: default
 ---
 
 <h1 class="name">{{ page.title }}</h1>
+<div class="image">{{ page.image }}</div>
 <div class="bio">{{ page.content }}</div>
 
 {% assign posts = site.posts | where: 'book', page.title %}
