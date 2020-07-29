@@ -1,13 +1,13 @@
 ---
 title: Chapter 4 ~ Allegro Moderato
-book: pur-ti-miro
-author: cherrythecheery
-image:
-  teaser-image: 
-  feature-image: 
 categories:
 - books
 - pur-ti-miro
+book: Pur Ti Miro
+author: Cherry
+image:
+  teaser-image: 
+  feature-image: 
 excerpt: Daydreams of Brett distract Eddy in his practice. Even if they would be apart
   for only a day, Eddy is frantic with worry when he reads Brett’s vague text message
   an hour late.
