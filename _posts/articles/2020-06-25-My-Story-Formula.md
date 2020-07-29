@@ -1,16 +1,12 @@
 ---
 title: My Story Formula
-date: 2020-06-26 00:00:00 Z
+date: 2020-06-25 20:00:00 -04:00
 categories:
 - articles
 tags:
 - Nonfiction
 - Writing Tips
-layout: article
 author: LidiaPZakut
-image:
-  teaser: 
-  feature: 
 ---
 
 1. Characters in their natural habitat

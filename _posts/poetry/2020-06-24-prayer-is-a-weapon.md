@@ -1,16 +1,12 @@
 ---
 title: Prayer is a weapon...
-date: 2020-06-25 00:00:00 Z
+date: 2020-06-24 20:00:00 -04:00
 categories:
 - poetry
 tags:
 - Prayer
-layout: article
 author: bravisha_skietano
 book: poetry
-image:
-  teaser: 
-  feature: 
 ---
 
 Prayer is a weapon.

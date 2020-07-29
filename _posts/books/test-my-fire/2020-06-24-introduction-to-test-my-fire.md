@@ -12,11 +12,10 @@ tags:
 book: test-my-fire
 author: bravisha_skietano
 image:
-  teaser: fire-2821775_1920.jpg
-  feature: fire-2821775_1920.jpg
+  teaser-image: fire-2821775_1920.jpg
+  feature-image: fire-2821775_1920.jpg
   credit: Ronald Plett
   creditlink: pixabay.com/users/RonaldPlett-5139674/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2821775
-layout: article
 ---
 
 ## Description

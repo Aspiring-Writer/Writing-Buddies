@@ -1,6 +1,6 @@
 ---
 title: First Night to Ever After ~ a Brett x Reader one-shot
-date: 2020-06-27 00:00:00 Z
+date: 2020-06-26 20:00:00 -04:00
 categories:
 - short-stories
 tags:
@@ -9,11 +9,7 @@ tags:
 - Romance
 - Mental Health Issues
 - PTSD
-layout: article
 author: cherrythecheery
-image:
-  teaser: 
-  feature: 
 ---
 
 ## Summary:

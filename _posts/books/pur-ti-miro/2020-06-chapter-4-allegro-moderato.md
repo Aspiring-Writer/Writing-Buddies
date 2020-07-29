@@ -1,11 +1,10 @@
 ---
 title: Chapter 4 ~ Allegro Moderato
-layout: article
 book: pur-ti-miro
 author: cherrythecheery
 image:
-  teaser: 
-  feature: 
+  teaser-image: 
+  feature-image: 
 categories:
 - books
 - pur-ti-miro

@@ -1,6 +1,6 @@
 ---
 title: Introduction to Cloudtopia
-date: 2020-06-26 00:00:00 Z
+date: 2020-06-25 20:00:00 -04:00
 categories:
 - books
 - cloudtopia
@@ -9,12 +9,11 @@ tags:
 - Short Story
 - Adventure
 - Fantasy
-layout: article
 book: cloudtopia
 author: bravisha_skietano
 image:
-  teaser: fantasy-3077928_1280.jpg
-  feature: fantasy-3077928_1280.jpg
+  teaser-image: fantasy-3077928_1280.jpg
+  feature-image: fantasy-3077928_1280.jpg
   credit: peter_pyw from Pixabay
   creditlink: pixabay.com/users/peter_pyw-2946451/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3077928
 ---
