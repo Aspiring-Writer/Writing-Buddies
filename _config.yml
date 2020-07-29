@@ -2,6 +2,9 @@
 title: Writing Buddies
 timezone: America/New_York
 collections:
+  authors:
+    title: Authors
+    output: true
   posts:
     title: Posts
     output: true
@@ -33,8 +36,6 @@ plugins:
 - jekyll-sitemap
 - jekyll-gist
 - jekyll-feed
-include:
-- _pages
 exclude:
 - _site
 - ".jekyll-cache"
