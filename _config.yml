@@ -36,6 +36,12 @@ defaults:
     layout: book
     author: 
     image: 
+- scope:
+    path: ''
+    type: series
+  values:
+    permalink: "/series/:title"
+    layout: series
 description: A communal blog for writers of all ages and levels to share there work
   for free.
 logo: nib-145703_640.png
