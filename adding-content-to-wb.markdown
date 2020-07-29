@@ -30,48 +30,9 @@ There are many videos on how to use Siteleaf, so I won't go into detail here. It
 
 * [Publishing A New Blog Post](https://www.siteleaf.com/blog/publishing-a-new-blog-post/)
 
-After reading the articles above, you should have a pretty good idea of what to do to start writing your posts. There are only a few things I need to go over is the metadata fields that you must use for your posts.
-
-### Table of Contents
-
-If you want to add a "Table of Contents" include toc.html wherever you want the TOC to be. There should be an empty line preceding and following the include.
-
-```
-{% include toc.html %}
-```
-
-### Videos
-
-There has been a lot of confusion when it comes to adding videos with Markdown, I've found the best way is to just use HTML.
-
-```
-<video width="640" height="480" controls>
-  <source src="/uploads/movie.mp4" type="video/mp4">
-  <source src="/uploads/movie.ogg" type="video/ogg">
-  <source src="/uploads/movie.webm" type="video/webm">
-Your browser does not support the video tag.
-</video> 
-```
-
-The source depends on the type of video you are inserting --- MP4, OGG, or WebM. You can use whichever you you want, or more than one (I would recommend just using MP4 since it's the most compatible with all the browsers). Use the source link that matchs your video format and make sure you change "movie" to the video's filename.
-
-Insert the HTML wherever you want the video to show up, and in as many places as you want.
-
-You can also change "controls" to "autoplay" if you wish.
-
-### Images
-
-Inserting images with Markdown is fairly simple:
-
-```
-![Image Name](/uploads/image.jpg)
-```
-
-Place that wherever you want the image to show up.
-
 ### Metadata Fields
 
-(scroll to the bottom for a video demonstrating this)
+After reading the articles above, you should have a pretty good idea of what to do to start writing your posts. The only thing I need to go over is the metadata fields that you must use for your posts (scroll to the bottom for a video demonstrating this).
 
 **All of these are case sensitive! And everything except the categories can be set in whatever order.**
 
@@ -136,19 +97,17 @@ This is a field that you only assign to posts that are part of a book or part of
 
 This is the final field you will need to insert. This field is actually a list of other fields nested under the "image" field.
 
-There are two images for each post, a "teaser" image, and a "feature" image. Both of these are optional and if left blank, the default teaser will be used and a feature image will be excluded. The teaser image is the image that shows above the post on the site's homepage. The feature image is the image that shows up in the post itself. They can be JPG, JPEG, PNG, or GIF. The images are all stored in the [GitHub repository](https://github.com/Aspiring-Writer/Writing-Buddies/tree/master/_uploads) in the folder "uploads". To upload images, click the little button on the left that says "Uploads".
-
-**Make sure you always add "/uploads/" before the image's filename so that GitHub and Siteleaf can find the file.**
+There are two images for each post, a "teaser-image", and a "feature-image". Both of these are optional and if left blank, the default teaser will be used and a feature image will be excluded. The teaser image is the image that shows above the post on the site's homepage. The feature image is the image that shows up in the post itself. They can be JPG, JPEG, PNG, or GIF. The images are all stored in the [GitHub repository](https://github.com/Aspiring-Writer/Writing-Buddies/tree/master/uploads) in the folder "uploads". To upload images, click the little button on the left that says "Uploads".
 
 The "image" field is created the same way as the other fields, the only difference is that you click the dropdown arrow after the "New metadata field" option and select "Object". This should insert two boxes like before, only the second box is split into two different boxes.
 
 1. Replace "Field name" with "image",
 
-2. Replace "Key" with "teaser", and in the blank box input the filename for the teaser image, ie "/uploads/example-teaser-image.jpg".
+2. Replace "Key" with "teaser-image", click the little upload button and select your file
 
 3. Next, click "New key/value pair" under the "Key" box. You should another field inserted under the "image" field with another "Key" box and a blank box.
 
-4. Replace "Key" with "feature" and in the blank box, input the filename for the feature image (both the teaser and the feature image can be the same file).
+4. Replace "Key" with "feature-image", click the little upload button and select your file (both the teaser and the feature image can be the same file).
 
 The next steps are only needed if you are crediting the image:
 
@@ -159,8 +118,8 @@ The next steps are only needed if you are crediting the image:
 > **GitHub Users:**
 >
 >     image:
->       teaser: example-image.jpg
->       feature: example-image.jpg
+>       teaser-image: example-image.jpg
+>       feature-image: example-image.jpg
 >       credit: Example People
 >       creditlink: www.example.com/images
 
@@ -168,13 +127,19 @@ The next steps are only needed if you are crediting the image:
 
 ---
 
-That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly.
-
-If you ever need to refer back to this page, you can find it in the site's footer with the title "Join The Community"
-
-Now go start writing your posts!
+Here is a video showing you how to add the metadata fields. It is a bit outdated and will be updated when I get a chance.
 
 <video width="640" height="480" controls>
 <source src="/uploads/adding-metadata.webm" type="video/webm">
 Your browser does not support the video tag.
 </video>
+
+---
+
+That's all you need to know to start adding your posts to the site! It seems like a lot, but it is worth it and you will get the hang of it pretty quickly. One last thing, if you want to add a "Table of Contents" add `{% include toc.html %}` wherever you want the TOC to be. There should be an empty line preceding and following the include.
+
+---
+
+If you ever need to refer back to this page, you can find it in the site's footer with the title "Join The Community"
+
+Now go start writing your posts!

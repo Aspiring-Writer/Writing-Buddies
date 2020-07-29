@@ -13,11 +13,12 @@ tags:
 - Operas
 - Classical Music
 - Inspired by Music
+layout: article
 book: pur-ti-miro
 author: cherrythecheery
 image:
-  teaser-image:
-  feature-image: 
+  teaser: 
+  feature: 
 ---
 
 A violinist and a singer meet again after five years. Despite complications in their personal lives, will their delayed romance finally blend in a harmonious cadence?

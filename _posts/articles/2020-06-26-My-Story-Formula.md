@@ -6,7 +6,11 @@ categories:
 tags:
 - Nonfiction
 - Writing Tips
+layout: article
 author: LidiaPZakut
+image:
+  teaser: 
+  feature: 
 ---
 
 1. Characters in their natural habitat

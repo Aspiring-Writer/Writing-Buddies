@@ -1,10 +1,11 @@
 ---
 title: Chapter 3 ~ Da Capo
+layout: article
 book: pur-ti-miro
 author: cherrythecheery
 image:
-  teaser-image:
-  feature-image:
+  teaser: 
+  feature: 
 categories:
 - books
 - pur-ti-miro

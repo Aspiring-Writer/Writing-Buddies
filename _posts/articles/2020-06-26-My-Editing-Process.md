@@ -6,6 +6,7 @@ categories:
 tags:
 - Nonfiction
 - Writing Tips
+layout: article
 author: LidiaPZakut
 ---
 
