@@ -10,10 +10,10 @@ tags:
 - Romance
 - Comedy
 book: dear-diary
-author: bravisha_skietano
+author: Bravisha Skietano
 image:
-  teaser-image: key-2471007_1920.jpg
-  feature-image: key-2471007_1920.jpg
+  teaser-image: "/uploads/key-2471016_1920.jpg"
+  feature-image: "/uploads/key-2471016_1920.jpg"
   credit: S. Hermann & F. Richter
   creditlink: pixabay.com/users/pixel2013-2364555/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2471007
 ---
