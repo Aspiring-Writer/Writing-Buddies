@@ -1,7 +1,6 @@
 ---
 title: Books by the Community
-date: 2020-07-29 00:38:00 -04:00
-permalink: "/books/"
+permalink: "/books"
 layout: archive
 ---
 
