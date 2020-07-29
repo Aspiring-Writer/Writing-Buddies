@@ -1,3 +1,20 @@
-{% if page.date %}<div class="page-meta">
-	<p>{{ site.data.messages.locales[site.locale].updated }} {% if page.modified %}<time datetime="{{ page.modified | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>{% else %}<time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time></p>{% endif %}
-</div><!-- /.page-meta -->{% endif %}
+{% if page.date %}
+  <div class="page-meta">
+  <p>{{ site.data.messages.locales[site.locale].updated }} 
+    {% if page.modified %}
+    <time datetime="{{ page.modified | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>
+    {% else %}
+    <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time></p>
+    {% endif %}
+  </div><!-- /.page-meta -->
+{% endif %}
+
+{% assign book = site.books | where: 'title', page.book | first %}
+{% if book %}
+<p>Part of the book: <a href="{{ book.url }}">{{ book.title }}</a></p>
+{% endif %}
+
+{% assign series = site.series | where: 'title', page.series | first %}
+{% if series %}
+<p>Part of the series: <a href="{{ series.url }}">{{ series.title }}</a></p>
+{% endif %}
