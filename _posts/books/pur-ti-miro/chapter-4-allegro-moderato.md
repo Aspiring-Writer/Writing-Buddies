@@ -3,8 +3,8 @@ title: Chapter 4 ~ Allegro Moderato
 categories:
 - books
 - pur-ti-miro
-book: Pur Ti Miro
 author: Cherry
+book: Pur Ti Miro
 image:
   teaser-image: 
   feature-image: 
