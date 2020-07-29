@@ -33,8 +33,6 @@ plugins:
 - jekyll-sitemap
 - jekyll-gist
 - jekyll-feed
-include:
-- _pages
 exclude:
 - _site
 - ".jekyll-cache"
