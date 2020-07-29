@@ -19,6 +19,11 @@ defaults:
     layout: article
 - scope:
     path: ''
+    type: pages
+  values:
+    permalink: "/:title"
+- scope:
+    path: ''
     type: authors
   values:
     permalink: "/authors/:title"
