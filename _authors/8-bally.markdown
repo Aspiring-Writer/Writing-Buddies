@@ -1,9 +1,9 @@
 ---
 title: 8 Bally
 date: 2020-07-29 00:05:00 -04:00
+avatar-image: "/uploads/avatar-8-bally.png"
+excerpt: High School Junior studying to become a future psychologist or Playwright.
 ---
-
-High School Junior studying to become a future psychologist or Playwright.
 
 Hobbies: Gaming, Theater, Writing, Music, Reading, Learning Psych
 
