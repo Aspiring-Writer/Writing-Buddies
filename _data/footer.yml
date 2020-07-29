@@ -3,17 +3,17 @@
 - title: Home
   url: /
 
+- title: Authors
+  url: /authors
+  
 - title: About Us
-  url: /about/
+  url: /about
 
 - title: Contact Us
-  url: /contact/
+  url: /contact
   
 - title: Join The Community
   url: /adding-content-to-wb
-  
-- title: Sister Sites
-  url: /sister-sites/
 
 - title: GitHub
   url: https://github.com/Aspiring-Writer/Writing-Buddies
