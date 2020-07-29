@@ -17,6 +17,13 @@ defaults:
     type: posts
   values:
     layout: article
+- scope:
+    path: ''
+    type: authors
+  values:
+    permalink: "/authors/:title"
+    layout: author
+    avatar: 
 description: A communal blog for writers of all ages and levels to share there work
   for free.
 logo: nib-145703_640.png
