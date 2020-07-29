@@ -6,7 +6,7 @@ categories:
 tags:
 - Nonfiction
 - Writing Tips
-author: LidiaPZakut
+author: Lidia Zakutnaya
 ---
 
 Step 1: Let the manuscript sit for a few months. Work on something else to help forget all the tiny details. Or have an alpha reader go over it to speed things up.
