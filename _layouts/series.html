@@ -7,5 +7,5 @@ layout: default
 
 {% assign posts = site.posts | where: 'series', page.title %}
 {% for post in posts %}
-  {% include post.html %}
+  {% include post-grid.html %}
 {% endfor %}
