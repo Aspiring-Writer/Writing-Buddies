@@ -9,12 +9,12 @@ tags:
 - Romance
 - Mental Health Issues
 - PTSD
-author: cherrythecheery
----
+author: Cherry
+excerpt: |-
+  The reader (written in first-person POV) marries Brett in a simple but heartfelt beach wedding attended by friends and family.
 
-## Summary:
-The reader (written in first-person POV) marries Brett in a simple but heartfelt beach wedding attended by friends and family.
-The night of the wedding is muddled by a past experience that goes ashore, but Brett proves he is the best husband there could possibly be.
+  The night of the wedding is muddled by a past experience that goes ashore, but Brett proves he is the best husband there could possibly be.
+---
 
 **Warning:** This story includes a panic attack related to trauma from rape. Discretion is advised.
 
@@ -22,7 +22,7 @@ The night of the wedding is muddled by a past experience that goes ashore, but B
 The story is grounded on the female character’s history of rape and panic attack. While there is no graphic portrayal of the abuse,
 the trauma may still be triggering to some. Please stop reading if you find yourself being affected by it.
 
-(See the end of the work for more notes.) <!--more-->
+(See the end of the work for more notes.)
 
 ***
 
