@@ -1,7 +1,7 @@
 {% assign author = site.authors | where: 'title', page.author | first %}
 {% if author %}
 <div class="author-image">
-	<img src="{{ site.url }}/uploads/{{ author.avatar-image }}" alt="{{ author.title }}">
+	<img src="{{ site.url }}/{{ author.avatar-image }}" alt="{{ author.title }}">
 </div><!-- ./author-image -->
 <div class="author-content">
 	<h3 class="author-name" >{{ site.data.messages.locales[site.locale].written_by }} <span itemprop="author"><a href="{{ author.url }}">{{ author.title }}</a></span></h3>
