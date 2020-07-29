@@ -5,8 +5,7 @@ categories:
 - poetry
 tags:
 - Prayer
-author: bravisha_skietano
-book: poetry
+author: Bravisha Skietano
 ---
 
 Prayer is a weapon.
