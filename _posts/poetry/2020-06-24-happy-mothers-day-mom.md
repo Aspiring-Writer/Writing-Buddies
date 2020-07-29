@@ -6,8 +6,7 @@ categories:
 tags:
 - Holidays
 - Mother's Day
-author: bravisha_skietano
-book: poetry
+author: Bravisha Skietano
 ---
 
 You know that feeling you get when you've became one year older?
