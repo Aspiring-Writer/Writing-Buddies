@@ -4,8 +4,8 @@ date: 2020-06-26 20:00:00 -04:00
 categories:
 - books
 - pur-ti-miro
-author: cherrythecheery
-book: pur-ti-miro
+author: Cherry
+book: Pur Ti Miro
 excerpt: Brett harks back to his memory from five years ago of Aimee, whom Eddy wanted
   to be part of TwoSet Violin.
 image:
