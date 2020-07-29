@@ -1,6 +1,7 @@
 ---
 title: Join Us
 date: 2020-07-29 00:55:00 -04:00
+permalink: "/join-us/"
 comments: false
 ---
 
