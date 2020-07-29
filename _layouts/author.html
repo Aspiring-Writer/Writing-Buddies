@@ -4,8 +4,12 @@ layout: archive
 
 <h1 class="name">{{ page.title }}</h1>
 <p>{{ page.short_bio }}</p>
-<div>{{ page.avatar-image }}</div>
-<p>{{ page.content }}</p>
+<div class="page-image">
+  <img src="{{ site.url }}/uploads/{{ page.image }}" class="page-image" alt="{{ page.title }}" itemprop="image">
+</div>
+
+<h2>About Me</h2>
+{{ page.content }}
 
 <h2>My Posts</h2>
 {% assign posts = site.posts | where: 'author', page.title %}
