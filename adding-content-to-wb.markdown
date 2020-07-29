@@ -16,7 +16,7 @@ I used [Jekyll](https://jekyllrb.com/), a static site generator, to create the s
 
 To post content on this site, we use the awesome, free CMS called [Siteleaf.](https://siteleaf.com/) This CMS allows you to post your content in an easy, code-free way.
 
-To access the CMS fill out [this form](/join-us/) and I will look over your responses, approve them, and email you a link to access Siteleaf.
+To access the CMS fill out [this form](/join-us/) if you haven't already and one of the admins will look over your responses, approve them, and email you a link to access Siteleaf.
 
 > **Note:** if you know how to use GitHub or do not mind learning, please create a branch and post your content that way instead. This allows more non-technical users to use the CMS without requiring me to pull out some cash and pay for more users. Thanks.
 
