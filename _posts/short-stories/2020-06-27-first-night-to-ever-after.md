@@ -9,11 +9,7 @@ tags:
 - Romance
 - Mental Health Issues
 - PTSD
-layout: article
 author: cherrythecheery
-image:
-  teaser: 
-  feature: 
 ---
 
 ## Summary:

@@ -7,12 +7,8 @@ tags:
 - Sadness
 - Death
 - Comfort
-layout: article
 author: bravisha_skietano
 book: poetry
-image:
-  teaser: 
-  feature: 
 ---
 
 "Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"

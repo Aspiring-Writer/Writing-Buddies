@@ -11,9 +11,14 @@ collections:
 description: A communal blog for writers of all ages and levels to share there work
   for free.
 logo: nib-145703_640.png
-teaser: paper-3033204_1280.jpg
+teaser-image: paper-3033204_1280.jpg
 locale: en
 url: http://writing-buddies.siteleaf.net
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: article
 feed:
   path: atom.xml
 sass:
@@ -24,20 +29,13 @@ kramdown:
   toc_levels: 1..2
 highlighter: rouge
 plugins:
-- jekyll-sitemap
-- jekyll-gist
-- jekyll-feed
-owner:
-  name: Aspiring Writer
-  email: aspiring-writer@outlook.com
-  google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: avatar-bravisha.jpg
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 include:
-- _pages
+  - _pages
 exclude:
-- ".jekyll-cache"
-- ".sass-cache"
-- Gemfile
+  - "_site"
+  - ".jekyll-cache"
+  - ".sass-cache"
+  - "Gemfile"

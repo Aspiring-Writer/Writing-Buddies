@@ -4,14 +4,13 @@ date: 2020-06-27 00:00:00 Z
 categories:
 - books
 - pur-ti-miro
-layout: article
 author: cherrythecheery
 book: pur-ti-miro
 excerpt: Brett harks back to his memory from five years ago of Aimee, whom Eddy wanted
   to be part of TwoSet Violin.
 image:
-  teaser: 
-  feature: 
+  teaser-image:
+  feature-image: 
 ---
 
 The hour-long rehearsal with the soprano is Brett’s last musician-duty for the day.
