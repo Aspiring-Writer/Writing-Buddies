@@ -1,31 +1,31 @@
 # Site navigation links
 
 - title: Articles
-  url: /articles/
-  excerpt:
+  url: /articles
+  excerpt: Not everything on this site is part of a story, some of it is actually a blog!
   image:
 
 - title: Books
-  url: /books/
-  excerpt:
-  image:
-
-- title: Poems
-  url: /poems/
-  excerpt:
+  url: /books
+  excerpt: We love to write books! Do you want to see the list of books we're writing?
   image:
 
 - title: Plays
-  url: /plays/
-  excerpt:
+  url: /plays
+  excerpt: Without faithful playwrights, we would never have any awesome movies! Come see what may be the next big hit.
+  image:
+
+- title: Poetry
+  url: /poetry
+  excerpt: Poetry may not be a full-fledged story, but it is still literature and can still alter your vision of the world.
   image:
 
 - title: Series
-  url: /series/
-  excerpt: Some of our articles are part of series, here's a list of all those series.
+  url: /series
+  excerpt: Some of our articles, and books, are part of series, here's a list of all those series.
   image:
 
 - title: Tags
-  url: /tags/
-  excerpt:
+  url: /tags
+  excerpt: We use tags aas genres for our books. Are you looking for a specific genre? Find it here!
   image:
