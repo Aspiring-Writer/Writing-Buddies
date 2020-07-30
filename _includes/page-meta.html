@@ -9,12 +9,10 @@
   </div><!-- /.page-meta -->
 {% endif %}
 
-{% assign book = site.books | where: 'title', page.book | first %}
 {% if book %}
 <p>Part of the book: <a href="{{ book.url }}">{{ book.title }}</a></p>
 {% endif %}
 
-{% assign series = site.series | where: 'title', page.series | first %}
 {% if series %}
 <p>Part of the series: <a href="{{ series.url }}">{{ series.title }}</a></p>
 {% endif %}
