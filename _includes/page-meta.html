@@ -9,10 +9,11 @@
   </div><!-- /.page-meta -->
 {% endif %}
 
-{% if book %}
-<p>Part of the book: <a href="{{ book.url }}">{{ book.title }}</a></p>
+
+{% if page.book %}
+<p>Part of the book: <a href="{{ book.url }}">{{ page.book }}</a></p>
 {% endif %}
 
-{% if series %}
-<p>Part of the series: <a href="{{ series.url }}">{{ series.title }}</a></p>
+{% if page.series %}
+<p>Part of the series: <a href="{{ series.url }}">{{ page.series }}</a></p>
 {% endif %}
