@@ -1,7 +1,7 @@
 ---
 title: Cherry
 date: 2020-07-29 00:02:00 -04:00
-avatar-image: "/uploads/avatar-cherry.png"
+image: "/uploads/avatar-cherry.png"
 excerpt: Hello! I'm a Capricorn Monkey, INFP-A, and an Enneagram Type Four.
 ---
 
