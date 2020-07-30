@@ -7,7 +7,7 @@ layout: archive
 
 <ul>
   {% for author in site.authors %}
-    <li><a href="{{ author.url }}">{{ author.title }}</a></li>
-  <blockquote>{{ author.excerpt }}</blockquote>
+    <h2><a href="{{ author.url }}">{{ author.title }}</a></h2>
+    <p>{{ author.excerpt }}</p>
   {% endfor %}
 </ul>
