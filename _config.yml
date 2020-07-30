@@ -29,7 +29,7 @@ defaults:
   values:
     permalink: "/authors/:title"
     layout: author
-    avatar-image: 
+    image: 
     excerpt: 
 - scope:
     path: ''
