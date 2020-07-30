@@ -8,6 +8,7 @@ layout: archive
 
 {% for book in site.books %}
 <h2><a href="{{ book.url }}">{{ book.title }}</a></h2>
-<p><a href="{{ author.url }}">Written by {{ book.author }}</a></p>
+<p><a href="{{ site.url }}/authors/{{ book.author | slugify }}"><b>Written by {{ book.author }}</b></a></p>
 <p>{{ book.content }}</p>
+<hr>
 {% endfor %}
