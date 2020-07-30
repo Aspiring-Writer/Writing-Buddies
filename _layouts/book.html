@@ -1,12 +1,13 @@
----
-layout: default
+--
+layout: archive
 ---
 
-<h1 class="name">{{ page.title }}</h1>
-<div class="image">{{ page.image }}</div>
-<div class="bio">{{ page.content }}</div>
+<div>{{ page.image }}</div>
 
+{{ page.content }}
+
+<h2>Chapters</h2>
 {% assign posts = site.posts | where: 'book', page.title %}
 {% for post in posts %}
-  {% include post-grid.html %}
+  {% include post-list.html %}
 {% endfor %}
