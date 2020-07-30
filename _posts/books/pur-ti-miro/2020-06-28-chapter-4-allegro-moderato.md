@@ -1,6 +1,6 @@
 ---
 title: Chapter 4 ~ Allegro Moderato
-date: 2020-06-26 00:26:00 -04:00
+date: 2020-06-28 00:26:00 -04:00
 categories:
 - books
 - pur-ti-miro
