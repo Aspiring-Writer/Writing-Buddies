@@ -23,13 +23,19 @@ defaults:
     type: posts
   values:
     layout: article
+    author: 
+    image:
+      teaser-image: 
+      feature-image: 
+      credit: 
+      creditlink: 
 - scope:
     path: ''
     type: authors
   values:
     permalink: "/authors/:title"
     layout: author
-    image: 
+    avatar-image: 
     excerpt: 
 - scope:
     path: ''
