@@ -1,9 +1,9 @@
 <article class="tile" itemscope itemtype="http://schema.org/Article">
   <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
     {% if post.image.teaser-image %}
-    <img src="{{ site.url }}{{ post.image.teaser-image }}" alt="teaser" itemprop="image">
+    <img src="{{ site.url }}/{{ post.image.teaser-image }}" alt="teaser" itemprop="image">
     {% else %}
-    <img src="{{ site.url }}{{ site.image.teaser-image }}" alt="teaser" itemprop="image">
+    <img src="{{ site.url }}/{{ site.image.teaser }}" alt="teaser" itemprop="image">
     {% endif %}
   </a>
   {% if post.date %}
