@@ -1,7 +1,7 @@
 ---
 title: Bravisha Skietano
 date: 2020-07-28 23:59:00 -04:00
-image: "/uploads/avatar-bravisha.jpg"
+avatar-image: "/uploads/avatar-bravisha.jpg"
 excerpt: |-
   I'm an eighteen-year-old, homeschooled, Christian student who is struggling to stay motivated and finish things.
 
