@@ -2,7 +2,7 @@
 title: Dear Diary, Do You Wanna Know A Secret?
 date: 2020-07-29 22:34:00 -04:00
 author: Bravisha Skietano
-image: "/uploads/key-2471016_1920.jpg"
+image: "/uploads/girl-4716922_1920.jpg"
 ---
 
 All Sasha wanted to do was finish school, get a job she loved, get married, and start a family. Unfortunately, getting past school seems impossible. Between staying on track with her studies and keeping up with her other activities, graduation couldn't be farther away. But then the Stone's show up. 
