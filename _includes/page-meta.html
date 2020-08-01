@@ -11,9 +11,9 @@
 
 
 {% if page.book %}
-<p>Part of the book: <a href="{{ book.url }}">{{ page.book }}</a></p>
+<p>Part of the book: <a href="{{ site.url }}/books/{{ page.book | slugify }}">{{ page.book }}</a></p>
 {% endif %}
 
 {% if page.series %}
-<p>Part of the series: <a href="{{ series.url }}">{{ page.series }}</a></p>
+<p>Part of the series: <a href="{{ site.url }}/series/{{ page.series | slugify }}">{{ page.series }}</a></p>
 {% endif %}
