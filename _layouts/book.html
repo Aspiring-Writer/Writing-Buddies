@@ -5,7 +5,7 @@ layout: archive
 {{ page.content }}
 
 <h2>Chapters</h2>
-{% assign posts = site.posts | where: 'book', page.title %}
+{% assign posts = site.posts | reverse | where: 'book', page.title %}
 {% for post in posts %}
   {% include post-list.html %}
 {% endfor %}
