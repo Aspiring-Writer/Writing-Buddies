@@ -6,7 +6,7 @@ layout: archive
 
 <ul>
   {% for book in site.books %}
-  <li><a href="/books/#{{ book.title | slugify }}">{{ book.title }}</a></li>
+  <li><a href="/books#{{ book.title | slugify }}">{{ book.title }}</a></li>
   {% endfor %}
 </ul>
 
