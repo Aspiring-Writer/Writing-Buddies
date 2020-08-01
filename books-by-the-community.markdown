@@ -10,11 +10,7 @@ layout: archive
   {% endfor %}
 </ul>
 
-<ul>
-  {% for book in site.books %}
-  <li><a href="#{{ book.title | slugify }}">{{ book.title }}</a></li>
-  {% endfor %}
-</ul>
+{% include toc.html %}
 
 {% for book in site.books %}
 <h2><a href="{{ book.url }}">{{ book.title }}</a></h2>
