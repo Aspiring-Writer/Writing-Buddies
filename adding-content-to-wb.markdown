@@ -94,6 +94,15 @@ This field is **important!** Whatever you put in this field will be reflected in
 ## Series
 This is just like the "Books" collection, it holds the index pages for the site's series. This is mainly for blog posts that are part of a series but can also be used for books that are part of a series. If you are also using it for books that are part of a series, make sure you add a "series" metadata field to that book's index page in the "Books" collection.
 
+## Images
+The last thing I want to mention is the images you need for each of your posts. When you create a new post, you have the option to set two images -- a teaser image and a feature image. The teaser image is the image that shows up with your post on the home page and the collection pages. The feature image is the image that shows up as the post's header image.
+
+If you are using an image that doesn't belong to you, i.e. you got one off of [Pixabay](https://pixabay.com), then you will need to credit the author. That's what the fields "credit" and "creditlink" are for, put the author's name in the "credit" field, and the link to the author's page in the "creditlink" field. **DO NOT include https:// in the link.**
+
+---
+
+**I am planning on creating some videos to show you how to do all of this, stay tuned!**
+
 ---
 
 That is all you need to know to start adding your content! If you ever need help, reach out to one of the administrators through our social platforms or through the contact page.
