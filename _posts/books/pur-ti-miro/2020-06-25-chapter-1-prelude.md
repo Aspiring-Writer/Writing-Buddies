@@ -4,11 +4,10 @@ date: 2020-06-25 20:00:00 -04:00
 categories:
 - books
 - pur-ti-miro
-book: Pur Ti Miro
 author: Cherry
 image:
-  teaser-image: 
-  feature-image: 
+  teaser-image: "/uploads/violin-3131551_1920.jpg"
+book: Pur Ti Miro
 ---
 
 Her footsteps, consistent in rhythm, echo in the empty hallway of the university. The pair of three-inch nude stilettos clacking amid the rather quiet afternoon illustrates the confidence of the poised, svelte woman. But it’s all feigned confidence, and no one knows but her.
