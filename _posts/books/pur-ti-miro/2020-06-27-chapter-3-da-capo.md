@@ -5,10 +5,9 @@ categories:
 - books
 - pur-ti-miro
 author: Cherry
-book: Pur Ti Miro
 image:
-  teaser-image: 
-  feature-image: 
+  teaser-image: "/uploads/violin-3131551_1920.jpg"
+book: Pur Ti Miro
 excerpt: Reminiscing the blossoming of their friendship in a milk tea shop where they
   first met, Brett and Aimee go back to where it all began.
 ---
