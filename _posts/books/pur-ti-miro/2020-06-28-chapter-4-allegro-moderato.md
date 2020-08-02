@@ -5,10 +5,9 @@ categories:
 - books
 - pur-ti-miro
 author: Cherry
-book: Pur Ti Miro
 image:
-  teaser-image: 
-  feature-image: 
+  teaser-image: "/uploads/violin-3131551_1920.jpg"
+book: Pur Ti Miro
 excerpt: Daydreams of Brett distract Eddy in his practice. Even if they would be apart
   for only a day, Eddy is frantic with worry when he reads Brett’s vague text message
   an hour late.
